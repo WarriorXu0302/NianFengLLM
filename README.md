@@ -1,6 +1,7 @@
 # NianFengLLM - 农业智能大模型系统
 
 <div align="center">
+![76c5bf6d633e08f1bf76c9bb4d2df58](https://github.com/user-attachments/assets/ea1a0fa8-fb9e-4032-b0ca-9445a83daf6a)
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)
