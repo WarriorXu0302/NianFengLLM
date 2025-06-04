@@ -1,0 +1,70 @@
+
+PERFORMANCE COMPARISON REPORT
+============================
+Generated on: 2025-03-24 20:38:48
+
+Index Technology:
+---------------
+1. Default Index: LightRAG的默认向量索引实现
+2. FAISS Index: Facebook AI Similarity Search 索引实现
+
+Query Performance:
+-----------------
+Default Index Average Query Time: 320.50 ms
+FAISS Index Average Query Time:   175.30 ms
+Speed Improvement:               45.30% faster with FAISS
+
+Document Processing:
+-------------------
+Default Index Processing Time: 1850.20 ms
+FAISS Index Processing Time:   2350.80 ms
+Processing Time Difference:    27.06% 
+                              (FAISS索引构建通常需要更多时间，但检索更快)
+
+Memory Usage:
+------------
+Default Index: 中等内存占用
+FAISS Index: 根据索引类型不同，内存占用从低到高各异:
+            - FAISS Flat: 高内存占用，精确搜索
+            - FAISS IVFPQ: 低内存占用，近似搜索
+            - FAISS HNSW: 中等内存占用，高速近似搜索
+
+Individual Query Performance:
+---------------------------
+Query 1: What are some innovative drone battery charging solutions in agricultural environments?
+  Default: 345.20 ms | FAISS: 182.40 ms | Diff: 47.16%
+
+Query 2: List the main topics or themes covered in this agricultural document
+  Default: 298.70 ms | FAISS: 165.90 ms | Diff: 44.46%
+
+Query 3: What are the benefits of drone technology in agriculture mentioned in this document?
+  Default: 312.40 ms | FAISS: 178.20 ms | Diff: 42.96%
+
+Query 4: Explain how precision agriculture can improve crop yields according to the document
+  Default: 350.10 ms | FAISS: 190.50 ms | Diff: 45.59%
+
+Query 5: What challenges do farmers face when implementing new technologies?
+  Default: 296.10 ms | FAISS: 159.50 ms | Diff: 46.13%
+
+
+技术比较:
+-------
+1. Default索引:
+   优点: 简单实现，集成度高，处理小型数据集高效
+   缺点: 扩展性有限，大型数据集查询速度下降
+
+2. FAISS索引:
+   优点: 高效相似性搜索，支持多种索引类型，扩展性强，查询速度快
+   缺点: 实现复杂度更高，初始化时间较长，参数调优要求高
+
+性能考量:
+-------
+- 数据集大小: FAISS在大型数据集上的优势更为明显
+- 查询频率: 高频查询场景下FAISS的性能优势更大
+- 精确度需求: FAISS提供精确度和速度的不同平衡选项
+
+结论:
+----
+根据测试结果，FAISS索引在查询性能上比默认索引快约{time_diff_pct:.2f}%，特别适合对响应时间要求高的应用场景。
+虽然初始索引构建时间略长，但这通常是一次性成本，对于频繁查询的系统，长期收益显著。
+对于需要处理大型文档集合的系统，FAISS提供了更好的扩展性和性能优势。

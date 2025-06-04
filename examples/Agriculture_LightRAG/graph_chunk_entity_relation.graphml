@@ -1,0 +1,577 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d7" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d6" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&lt;George Grispos&gt;">
+      <data key="d0">&lt;George Grispos&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;George Grispos is a co-founder and CEO of Sustainable Agriculture Solutions (SAS), a company that provides sustainable agriculture solutions using IoT technologies, such as LoRaWAN and NBIoT.&lt;/entity_description&gt;</data>
+      <data key="d3">chunk-381caab342b793e061f657e4be50990e</data>
+    </node>
+    <node id="&lt;NameOfCompany1&gt;">
+      <data key="d0">&lt;NameOfCompany1&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;description_length: 4 words (NameOfCompany1 is a leading provider of innovative solutions)&gt;</data>
+      <data key="d3">chunk-211d9615bcf7851ade0a8f2fb19ebbd1</data>
+    </node>
+    <node id="&lt;World Agriculture &amp; Forestry Library (AGFOR)&gt;">
+      <data key="d0">&lt;World Agriculture &amp; Forestry Library (AGFOR)&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Name: World Agriculture &amp; Forestry Library (AGFOR); Description: The World Agriculture &amp; Forestry Library (AGFOR) is a comprehensive database of agricultural and forestry-related information, including articles, books, conference proceedings, and other publications.&gt;</data>
+      <data key="d3">chunk-5d117b39cec19a35a8c90b161f36943b</data>
+    </node>
+    <node id="&lt;RetinaXtend&gt;">
+      <data key="d0">&lt;RetinaXtend&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Developer of end-to-end pipeline for medical image analysis.&gt;</data>
+      <data key="d3">chunk-73bd6f6f069e296802158e3fe9f68e39</data>
+    </node>
+    <node id="&lt;Haitian Wang&gt;">
+      <data key="d0">&lt;Haitian Wang&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Manogna R. L.&gt;</data>
+      <data key="d3">chunk-106f2a601060d9269bbcd0cf15ee92ba</data>
+    </node>
+    <node id="&lt;Agricultural Operational Design Domain&gt;">
+      <data key="d0">&lt;Agricultural Operational Design Domain&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;description"&gt;The Agricultural Operational Design Domain (Agri-ODD</data>
+      <data key="d3">chunk-2ecca200d7fe03b6d007009d79946603</data>
+    </node>
+    <node id="&lt;Mobile Robot&gt;">
+      <data key="d0">&lt;Mobile Robot&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Description: Mobile robot for lateral movement in agriculture&lt;/description&gt;</data>
+      <data key="d3">chunk-d1ccc54586b2ccfd450982cad3cd6c20</data>
+    </node>
+    <node id="&lt;Person&quot;&gt;">
+      <data key="d0">&lt;Person"&gt;</data>
+      <data key="d1">&lt;type"&gt;organization&lt;/|&gt;</data>
+      <data key="d2">&lt;description&gt;&gt;"Name of Organization", capitalized</data>
+      <data key="d3">chunk-a957597355224eb7462f4e4a63f217d2</data>
+    </node>
+    <node id="&lt;Julien Thiesson&gt;">
+      <data key="d0">&lt;Julien Thiesson&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Julien Thiesson is a co-founder and CEO of Lhyfe, a French startup that produces hydrogen from biomass.&gt;</data>
+      <data key="d3">chunk-111beca745e61d3bca75ae3f951001ec</data>
+    </node>
+    <node id="&lt;World Bank&gt;">
+      <data key="d0">&lt;World Bank&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;The World Bank is an international organization that provides financial and technical assistance to developing countries around the world. Its mission is to reduce poverty and promote economic development through sustainable development practices.**</data>
+      <data key="d3">chunk-43582a17c2f1ae8a7413f86bf30df558</data>
+    </node>
+    <node id="&lt;World Agriculture Production and Market (WAPM)&gt;">
+      <data key="d0">&lt;World Agriculture Production and Market (WAPM)&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Name: World Agriculture Production and Market (WAPM); Description: An organization focused on promoting sustainable agriculture practices and increasing food security; Keywords: agriculture, food security, sustainability&lt;/&gt;</data>
+      <data key="d3">chunk-baf3c285253a91ab0de1f5425912c237</data>
+    </node>
+    <node id="&lt;Agricultural Robotics&gt;">
+      <data key="d0">&lt;Agricultural Robotics&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;provides agricultural robotics solutions for sustainable farming practices.&gt;</data>
+      <data key="d3">chunk-6c10245e94fbc20f48ee8e1b78904013</data>
+    </node>
+    <node id="&lt;World Wildlife Fund&gt;">
+      <data key="d0">&lt;World Wildlife Fund&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;description&gt;The World Wildlife Fund is an international organization that works to conserve nature and reduce the most pressing threats to the diversity of life on Earth.&lt;/description&gt;</data>
+      <data key="d3">chunk-37a2ac04e0e4d1fa2a76136ee177b2cf</data>
+    </node>
+    <node id="&lt;Agricultural IoT">
+      <data key="d0">&lt;Agricultural IoT</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Description: Agricultural IoT refers to the use of Internet of Things (IoT</data>
+      <data key="d3">chunk-3e352ea56abcbf4d1f07e2943ea80e96</data>
+    </node>
+    <node id="&lt;Slim Alouini&gt;">
+      <data key="d0">&lt;Slim Alouini&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;provides AI-powered solutions for various industries including agriculture, construction, and manufacturing&lt;/ entity_description&gt;</data>
+      <data key="d3">chunk-99188097d30ee6371854f0d78c739819</data>
+    </node>
+    <node id="&lt;SCSLabISU&gt;">
+      <data key="d0">&lt;SCSLabISU&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">Name: SCSC Lab ISU; Description: A research institution focused on AI and 5G technologies.</data>
+      <data key="d3">chunk-eab1f04db255096263826dfb4f2c689d</data>
+    </node>
+    <node id="&lt;Emily Johnson&gt;">
+      <data key="d0">&lt;Emily Johnson&gt;</data>
+      <data key="d1">&lt;person&gt;</data>
+      <data key="d2">&lt;name:Emily Johnson; description: Founder and CEO of ROS Industries, leading robotics company; location: Hong Kong, China&lt;/description&gt;</data>
+      <data key="d3">chunk-65ca69ef17b336db14899c536e8f6940</data>
+    </node>
+    <node id="&lt;organization&gt;">
+      <data key="d0">&lt;organization&gt;</data>
+      <data key="d1">&lt;Basis Technology&gt;</data>
+      <data key="d2">&lt;develops high-level functionalities for various applications including seed distribution, but faces limitations in outdoor environments such as orchards and vineyards due to obstacles and temporal spillovers affecting market concentration.&lt;/&gt;&lt;SEP&gt;&lt;provides digital agriculture solutions for farmers and agricultural institutions, including precision agriculture applications and data-driven decision making&lt;/entity_description&gt;</data>
+      <data key="d3">chunk-203d15a853373e1f0febb0bfe3fa1b09&lt;SEP&gt;chunk-a4b3de2ce4d16138644fbbaed2317095</data>
+    </node>
+    <node id="&lt;Organization&gt;">
+      <data key="d0">&lt;Organization&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Comprehensive description of organizations, including their structure, function, and operations.&gt;&lt;SEP&gt;&lt;Describes organizations and their properties, such as names, locations, and types.&gt;&lt;SEP&gt;&lt;Entity name: Agricultural Research Institute, entity type: organization, entity description: A research institute focused on improving agricultural practices and productivity through cutting-edge technology and innovation.&lt;/entity_description&gt;&lt;SEP&gt;&lt;Entity type&gt;&lt;SEP&gt;&lt;Entity_type&gt;organization&lt;/|&gt;&lt;SEP&gt;&lt;Leveraging IoT and AI technologies to transform agriculture in Germany&lt;/|&gt;&lt;/entity_type&gt;&lt;SEP&gt;&lt;Name: ABC Corporation, Description: A multinational technology company&lt;/entity&gt;&lt;SEP&gt;&lt;Name: Organization, Description: Name of the organization, Keywords: agriculture, food security, technology adoption&lt;/&gt;&lt;SEP&gt;&lt;Type: organization&gt;&lt;SEP&gt;&lt;Type&gt;&lt;SEP&gt;&lt;description&gt;&lt;SEP&gt;&lt;entity_type&gt;&lt;SEP&gt;&lt;organization_type&gt;</data>
+      <data key="d3">chunk-88110b302238e58dd35c3dfb44f8b5ac&lt;SEP&gt;chunk-4bf2bfca4d87865ba6a283cda8254fd7&lt;SEP&gt;chunk-0c9b01b0ada98a3303e5bf5b7b49d595&lt;SEP&gt;chunk-4f297f0fa60ec21aee853ac3c56bde58&lt;SEP&gt;chunk-1fc08c9bcc5f378a84176af7a75b4f8d&lt;SEP&gt;chunk-d93e13c1f190731d0800ad93ba04a293&lt;SEP&gt;chunk-53328738fd5a3eeee398cef6cea38166&lt;SEP&gt;chunk-0886c267123ac4576b0d43468629d7a8&lt;SEP&gt;chunk-b714bab0127210c42809069cb7af9967&lt;SEP&gt;chunk-75f9eae92dc87498778fbef7102f3cb5&lt;SEP&gt;chunk-e0755339f3b2e1c84123ce339e8a77dc&lt;SEP&gt;chunk-b71f6ba7e0946eba3c207816baffc9d7&lt;SEP&gt;chunk-7d501797f6aca33fe98a98319e411837&lt;SEP&gt;chunk-7d6e0c669882b6ce308ab4985260fb43</data>
+    </node>
+    <node id="&lt;Agriculture-Vision Challenge 2024&gt;">
+      <data key="d0">&lt;Agriculture-Vision Challenge 2024&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;The Agriculture-Vision Challenge is a competition that aims to promote innovation in agriculture by providing a platform for farmers, researchers, and entrepreneurs to showcase their ideas and solutions. The challenge focuses on finding sustainable and efficient ways to improve crop yields, reduce waste, and increase profitability in the agricultural sector.&lt;/entity_description&gt;</data>
+      <data key="d3">chunk-86c720b4b4aa645bb2574da991289c0c</data>
+    </node>
+    <node id="&lt;Institution Name&gt;">
+      <data key="d0">&lt;Institution Name&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Name of Institution&gt;</data>
+      <data key="d3">chunk-68013ee59baafa41516a1714fe894e69</data>
+    </node>
+    <node id="&lt;UTokyo-FieldPhenomics-Lab&gt;">
+      <data key="d0">&lt;UTokyo-FieldPhenomics-Lab&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Name: UTokyo-FieldPhenomics-Lab, Date: 2024/03/22, Description: The paper considers employing a UAV as an aerial BS to acquire data of agricultural IoT devices.&lt;/Description&gt;</data>
+      <data key="d3">chunk-1c1b5f3edb1f8ec0df94f5958e42e51e</data>
+    </node>
+    <node id="&lt;Shanglong Yang&gt;">
+      <data key="d0">&lt;Shanglong Yang&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Name: Shanglong Yang, Affiliation: Alexander Metzger, Location: Kagera, Tanzania, Date: 2024/03/14</data>
+      <data key="d3">chunk-43d471171bf48073ff665abe1a185c1c</data>
+    </node>
+    <node id="&lt;NameOfEntity1&gt;">
+      <data key="d0">&lt;NameOfEntity1&gt;</data>
+      <data key="d1">&lt;TypeOfEntity1&gt;</data>
+      <data key="d2">&lt;DescriptionOfEntity1&gt;</data>
+      <data key="d3">chunk-22796d54c16030f4952a700ccd618ea5</data>
+    </node>
+    <node id="&lt;Name of Entity 1&gt;">
+      <data key="d0">&lt;Name of Entity 1&gt;</data>
+      <data key="d1">&lt;Entity Type 1&gt;</data>
+      <data key="d2">&lt;Description of Entity 1&gt;&lt;SEP&gt;&lt;Entity Description 1&gt;</data>
+      <data key="d3">chunk-c3cf4a1e3baed60d5c0118f1cfbd8793&lt;SEP&gt;chunk-85d8a4d0e3c7fcd0a5059d21298f6a94</data>
+    </node>
+    <node id="&lt;agspnet&gt;">
+      <data key="d0">&lt;agspnet&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Agricultural Geospatial Network, a decentralized platform for crop monitoring and management, combining satellite imagery, UAVs, and machine learning to provide real-time insights on crop growth and development.&gt;</data>
+      <data key="d3">chunk-a384d7cb2a56d4a09cd1cefa2f7532f5</data>
+    </node>
+    <node id="&lt;Organization Name&gt;">
+      <data key="d0">&lt;Organization Name&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;description&gt;</data>
+      <data key="d3">chunk-d5c4383e0e881a3229f7d959d13d1720</data>
+    </node>
+    <node id="&lt;NameCo&lt;/Organization&gt;">
+      <data key="d0">&lt;NameCo&lt;/Organization&gt;</data>
+      <data key="d1">&lt;type&gt;organization&lt;/|&gt;</data>
+      <data key="d2">&lt;description&gt;Co., a leading provider of innovative solutions for various industries&lt;/|&gt;&lt;/&gt;</data>
+      <data key="d3">chunk-46400ea3d1defe1b464bc5e6f2bde203</data>
+    </node>
+    <node id="&lt;OrganizationName&gt;">
+      <data key="d0">&lt;OrganizationName&gt;</data>
+      <data key="d1">&lt;OrganizationType&gt;</data>
+      <data key="d2">&lt;OrganizationDescription&gt;&lt;SEP&gt;&lt;description&gt;The Organization is a non-profit organization dedicated to promoting sustainability and reducing carbon emissions.&lt;/description&gt;</data>
+      <data key="d3">chunk-ccc236cbfc2f28fcf02478e16d39d5ab&lt;SEP&gt;chunk-fd3ffa9fda5b9f7563b9a2c1ba757d32</data>
+    </node>
+    <node id="&lt;Roland Grinis&gt;">
+      <data key="d0">&lt;Roland Grinis&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Name of Roland Grinis and his contributions to the field of precision farming, including his work on machine learning and data mining.&gt;</data>
+      <data key="d3">chunk-5cc5fe14fe6ef64218a6e4065671258e</data>
+    </node>
+    <node id="&lt;agriculture&gt;">
+      <data key="d0">&lt;agriculture&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Agricultural Organization for Food and Agriculture (AOFA)&gt;</data>
+      <data key="d3">chunk-ea275b32a7ec40706a1a915436809771</data>
+    </node>
+    <node id="&lt;Yang Wenkai&gt;">
+      <data key="d0">&lt;Yang Wenkai&gt;</data>
+      <data key="d1">&lt;person&gt;</data>
+      <data key="d2">&lt;name: Yang Wenkai; title: Professor; affiliation: AgBioData Consortium; description: Agricultural engineer and data scientist; keywords: agriculture, data science, engineering, farming</data>
+      <data key="d3">chunk-e5a6d92ed4f28a4541463e61ceb26e8f</data>
+    </node>
+    <node id="&lt;AgBioData&gt;">
+      <data key="d0">&lt;AgBioData&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Generates data for precision agriculture using drones and satellite Earth observations.</data>
+      <data key="d3">chunk-ad30185d344d15c60aaf6e812c3f4c39</data>
+    </node>
+    <node id="&lt;person&gt;">
+      <data key="d0">&lt;person&gt;</data>
+      <data key="d1">&lt;name&gt;</data>
+      <data key="d2">&lt;type&gt;</data>
+      <data key="d3">chunk-0c423a70192fe9950cee2c40b11dd0a1</data>
+    </node>
+    <node id="&lt;deep_learning_techniques_hyperspectral_image_analysis_in_agriculture">
+      <data key="d0">&lt;deep_learning_techniques_hyperspectral_image_analysis_in_agriculture</data>
+      <data key="d1">&lt;person&gt;</data>
+      <data key="d2">&lt;Recent years, hyperspectral imaging (HSI) has gained considerably popularity among computer vision researchers for its potential in solving remote sensing problems, especially in agriculture field. However, HSI classification is a complex task due to the high redundancy of spectral bands, limited training samples, and non-linear relationship between spatial position and spectral bands. Fortunately, deep learning techniques have shown promising results in HSI analysis. This literature review explores recent applications of deep learning approaches such as Autoencoders, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Support Vector Machines (SVMs</data>
+      <data key="d3">chunk-1ecd086277bc8eff41ba656092bb380a</data>
+    </node>
+    <node id="&lt;World Agriculture Organization&gt;">
+      <data key="d0">&lt;World Agriculture Organization&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;The World Agriculture Organization (WAO</data>
+      <data key="d3">chunk-e216ed19a6a39dea20b6a2c55dc7ccb5</data>
+    </node>
+    <node id="&lt;John Doe&gt;">
+      <data key="d0">&lt;John Doe&gt;</data>
+      <data key="d1">&lt;person&gt;</data>
+      <data key="d2">&lt;He is the CEO of My Corporation.&gt;</data>
+      <data key="d3">chunk-2fcc7a15af26babc6a592aec51be9766</data>
+    </node>
+    <node id="&lt;World Agriculture&gt;">
+      <data key="d0">&lt;World Agriculture&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Overview of World Agriculture: its importance, challenges and opportunities, and the role of agricultural organizations in addressing these issues.&lt;/&gt;&lt;SEP&gt;&lt;The World Agriculture Organization (WAO) is an international organization that aims to improve global food security by promoting sustainable agriculture practices.]</data>
+      <data key="d3">chunk-88743484208de71e362630f298a1143f&lt;SEP&gt;chunk-85a567e93bb073c2d4cd20e16f4197a4</data>
+    </node>
+    <node id="&lt;Ilias Tsoumas&gt;">
+      <data key="d0">&lt;Ilias Tsoumas&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Ilias Tsoumas is a researcher and professor at the University of Ioannina, Greece. His research interests include natural language processing, machine learning, and data mining.</data>
+      <data key="d3">chunk-3df3de555ae6c76eac7df38c8fe55942</data>
+    </node>
+    <node id="&lt;Ilias Tsanoudaki&gt;">
+      <data key="d0">&lt;Ilias Tsanoudaki&gt;</data>
+      <data key="d1">&lt;person&gt;</data>
+      <data key="d2">&lt;name&gt;Ilias Tsanoudaki&lt;/name&gt;</data>
+      <data key="d3">chunk-5e1879c6829cb7646b3bb1fb7b6b71bf</data>
+    </node>
+    <node id="&lt;CV&gt;">
+      <data key="d0">&lt;CV&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;A company dedicated to creating a more efficient and sustainable future through advancements in artificial intelligence and machine learning&lt;/ entity_description&gt;</data>
+      <data key="d3">chunk-44264a4c379f8bcc56a90bc9c215427f</data>
+    </node>
+    <node id="&lt;Towards Out-Of-Box Explainable Artificial Intelligence for Digital Agriculture&gt;">
+      <data key="d0">&lt;Towards Out-Of-Box Explainable Artificial Intelligence for Digital Agriculture&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Paraskevi Nousi, Anne Catherine Nguyen, Aisha Syed, W. Sean Kennedy&gt;</data>
+      <data key="d3">chunk-4889bc29675da62b6301993c2a53aa75</data>
+    </node>
+    <node id="&lt;Africa&gt;">
+      <data key="d0">&lt;Africa&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Location Africa, data-sparse regions&lt;/entity_description&gt;</data>
+      <data key="d3">chunk-69e287edb8c119a238e5f50e038a0f18</data>
+    </node>
+    <node id="&lt;World Agriculture &amp; Food Security Centre&gt;">
+      <data key="d0">&lt;World Agriculture &amp; Food Security Centre&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;The World Agriculture &amp; Food Security Centre is an international organization that works to improve food security and sustainable agriculture practices around the world.&lt;/entity_description&gt;</data>
+      <data key="d3">chunk-ddf69bd30934272710685d85431d295e</data>
+    </node>
+    <node id="&lt;Christopher J. Henry&gt;">
+      <data key="d0">&lt;Christopher J. Henry&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Name: Christopher J. Henry, Description: Christopher J. Henry is related to Sanjib Pohit and Abdelhamid Rabhi&gt;</data>
+      <data key="d3">chunk-28a29ec8494b7e1ff6d07c4b03bd6799</data>
+    </node>
+    <node id="&lt;Daping Cao&gt;">
+      <data key="d0">&lt;Daping Cao&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Name: Daping Cao, Professor at Xi'an Jiaotong University; Research interests: precision agriculture, greenhouse control, autonomous farming; Key contributions: developed the iGrow system for autonomous greenhouse control</data>
+      <data key="d3">chunk-55cf429998da96a1c9e578d3fc087032</data>
+    </node>
+    <node id="&lt;Agriculture&gt;">
+      <data key="d0">&lt;Agriculture&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;description: Agriculture is the study of cultivating land, breeding animals, and harvesting natural resources to produce food, fiber, and other products. It involves various practices such as crop rotation, irrigation, fertilization, pest management, and animal husbandry.&lt;/description&gt;&lt;SEP&gt;&lt;name&gt;Agriculture&lt;/name&gt;</data>
+      <data key="d3">chunk-51d8e03dad032b5c7e137fc1567c61e6&lt;SEP&gt;chunk-505471a3c904ee776c028c41917620d1</data>
+    </node>
+    <node id="&lt;Oak Ridge National Laboratory&gt;">
+      <data key="d0">&lt;Oak Ridge National Laboratory&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;provides research and development services for various fields including nuclear science, advanced materials, and supercomputing&lt;/entity_description&gt;</data>
+      <data key="d3">chunk-868c613a1680decc09bc0a9c4abc28ae</data>
+    </node>
+    <node id="&lt;World Meteorological Organization&gt;">
+      <data key="d0">&lt;World Meteorological Organization&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;The World Meteorological Organization (WMO</data>
+      <data key="d3">chunk-896342b0f397fb6ebee8264f37d82add</data>
+    </node>
+    <node id="&lt;Fanny Ficuciello&gt;">
+      <data key="d0">&lt;Fanny Ficuciello&gt;</data>
+      <data key="d1">&lt;person&gt;</data>
+      <data key="d2">&lt;agriculture policy recommendations, brace roots in members of Poaceae&gt;</data>
+      <data key="d3">chunk-3df2e642f175dce71b12370e6682616c</data>
+    </node>
+    <node id="&lt;Carlo Rizzatti-Chauvat&gt;">
+      <data key="d0">&lt;Carlo Rizzatti-Chauvat&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Name: Carlo Rizzatti-Chauvet; Description: Organization entity; Keywords: agriculture, smart agriculture&lt;/&gt;</data>
+      <data key="d3">chunk-564e41508e7a73a61eefec5c653e7b22</data>
+    </node>
+    <node id="&lt;World Athletics Championship&gt;">
+      <data key="d0">&lt;World Athletics Championship&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Name: World Athletics Championship, Description: Organization that provides a platform for athletes to compete in track and field events, Keywords: Track and field, Athletics, Competition.</data>
+      <data key="d3">chunk-d3dcad41934542dee39bed288b6a1ea8</data>
+    </node>
+    <node id="&lt;Index (GVI)&quot;&gt;">
+      <data key="d0">&lt;Index (GVI)"&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;A lightweight module for automated delineation of agricultural fields.&lt;/ entity_description&gt;</data>
+      <data key="d3">chunk-805abc5c4f1f2871aca087fae2a10433</data>
+    </node>
+    <node id="&lt;Yildirak&gt;">
+      <data key="d0">&lt;Yildirak&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Name: Yildirak; Description: European Union-funded project focused on developing a decision support system for precision agriculture; Type: Organization</data>
+      <data key="d3">chunk-107e5ce388c46894783ff0e5b3e18db7</data>
+    </node>
+    <node id="&lt;Green Revolution">
+      <data key="d0">&lt;Green Revolution</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;The Green Revolution refers to the agricultural and technological developments that occurred in the 1940s-1970s, led by the introduction of high-yielding crop varieties (HYVs</data>
+      <data key="d3">chunk-5f6093f5ec1e42dcee06ce06463d82be</data>
+    </node>
+    <node id="&lt;Tokyo&gt;">
+      <data key="d0">&lt;Tokyo&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;name&gt;Tokyo&lt;/name&gt;</data>
+      <data key="d3">chunk-1b4e73fd2f822bce157a205a1e7810ce</data>
+    </node>
+    <node id="&lt;World Athletics Federation&gt;">
+      <data key="d0">&lt;World Athletics Federation&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Name: World Athletics Federation, also known as IAAF; Description: Global governing body for track and field athletics; Keywords: sports governance, competition rules, athlete development</data>
+      <data key="d3">chunk-c10318267b189efdc7644e67616dd7b6</data>
+    </node>
+    <node id="&lt;Agricultural Futures Markets&gt;">
+      <data key="d0">&lt;Agricultural Futures Markets&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;provides financial market for farmers and ranchers to trade agricultural commodities, weather derivatives, and other contracts&lt;/entity_description&gt;</data>
+      <data key="d3">chunk-71f4132a00e0b3bfa612ee0cd35ccbfd</data>
+    </node>
+    <node id="&lt;OrganizationName1&gt;">
+      <data key="d0">&lt;OrganizationName1&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;entity_description&gt;</data>
+      <data key="d3">chunk-087f4f1bf6a00d2df8b9a73bde485fa0</data>
+    </node>
+    <node id="&lt;World Agricultural Production&gt;">
+      <data key="d0">&lt;World Agricultural Production&gt;</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Provides sustainable digital agriculture solutions to farmers and agribusinesses.</data>
+      <data key="d3">chunk-eb14db83a433b4dfc3af0794cf98c6b1</data>
+    </node>
+    <node id="&lt;node localization&quot;&gt;">
+      <data key="d0">&lt;node localization"&gt;</data>
+      <data key="d1">&lt;algorithm&gt;</data>
+      <data key="d2">&lt;uses received signal strength indicator (RSSI) values to estimate distribution of distance between nodes then updates location probability mass function (pmf</data>
+      <data key="d3">chunk-fba51f922df4410f24cf3606807d6172</data>
+    </node>
+    <node id="&lt;Agriculture">
+      <data key="d0">&lt;Agriculture</data>
+      <data key="d1">&lt;organization&gt;</data>
+      <data key="d2">&lt;Name: Agriculture Department, Description: Responsible for developing and implementing policies related to agriculture, farming, and food production in the country.&lt;/Description&gt;}</data>
+      <data key="d3">chunk-3482d180f020abd5963d8e06fd170f69</data>
+    </node>
+    <node id="Organization">
+      <data key="d0">Organization</data>
+      <data key="d1">organization</data>
+      <data key="d2">The organization is focused on developing novel techniques in biotechnology, including genetic manipulation of microorganisms and biocomputational tools for molecular modeling.</data>
+      <data key="d3">chunk-36a2e0fe37fb2bdfeb57832b283ad039</data>
+    </node>
+    <node id="Person">
+      <data key="d0">Person</data>
+      <data key="d1">person</data>
+      <data key="d2">R. G. M. van der Sman and M. F. M. Janssens are the authors of a research paper on lattice gas automaton for simulating transport phenomena in packages of agricultural products.</data>
+      <data key="d3">chunk-36a2e0fe37fb2bdfeb57832b283ad039</data>
+    </node>
+    <node id="Geo">
+      <data key="d0">Geo</data>
+      <data key="d1">geo</data>
+      <data key="d2">The research is conducted in relation to agricultural and medical biotechnology applications.</data>
+      <data key="d3">chunk-36a2e0fe37fb2bdfeb57832b283ad039</data>
+    </node>
+    <node id="Event">
+      <data key="d0">Event</data>
+      <data key="d1">event</data>
+      <data key="d2">The paper discusses the potential impact of emerging new techniques on future biotechnology applications.</data>
+      <data key="d3">chunk-36a2e0fe37fb2bdfeb57832b283ad039</data>
+    </node>
+    <node id="Category">
+      <data key="d0">Category</data>
+      <data key="d1">category</data>
+      <data key="d2">The research falls under the category of bioinformatics and computational biology.</data>
+      <data key="d3">chunk-36a2e0fe37fb2bdfeb57832b283ad039</data>
+    </node>
+    <node id="&lt;Organization&quot;&gt;">
+      <data key="d0">&lt;Organization"&gt;</data>
+      <data key="d3">chunk-a957597355224eb7462f4e4a63f217d2</data>
+      <data key="d2">&lt;strong&gt;is_a&lt;/|&gt;</data>
+      <data key="d1">UNKNOWN</data>
+    </node>
+    <node id="&lt;SourceEntity1&gt;">
+      <data key="d0">&lt;SourceEntity1&gt;</data>
+      <data key="d3">chunk-22796d54c16030f4952a700ccd618ea5</data>
+      <data key="d2">&lt;RelationshipDescription1&gt;</data>
+      <data key="d1">UNKNOWN</data>
+    </node>
+    <node id="&lt;TargetEntity1&gt;">
+      <data key="d0">&lt;TargetEntity1&gt;</data>
+      <data key="d3">chunk-22796d54c16030f4952a700ccd618ea5</data>
+      <data key="d2">&lt;RelationshipDescription1&gt;</data>
+      <data key="d1">UNKNOWN</data>
+    </node>
+    <node id="&lt;source_entity&gt;">
+      <data key="d0">&lt;source_entity&gt;</data>
+      <data key="d3">chunk-378563fd6d5054edc2d8456a81660a76</data>
+      <data key="d2">&lt;target_entity&gt;</data>
+      <data key="d1">UNKNOWN</data>
+    </node>
+    <node id="&lt;Source Entity 1&gt;">
+      <data key="d0">&lt;Source Entity 1&gt;</data>
+      <data key="d3">chunk-c3cf4a1e3baed60d5c0118f1cfbd8793&lt;SEP&gt;chunk-85d8a4d0e3c7fcd0a5059d21298f6a94</data>
+      <data key="d2">&lt;Relationship Description 1&gt;</data>
+      <data key="d1">UNKNOWN</data>
+    </node>
+    <node id="&lt;Target Entity 1&gt;">
+      <data key="d0">&lt;Target Entity 1&gt;</data>
+      <data key="d3">chunk-c3cf4a1e3baed60d5c0118f1cfbd8793&lt;SEP&gt;chunk-85d8a4d0e3c7fcd0a5059d21298f6a94</data>
+      <data key="d2">&lt;Relationship Description 1&gt;</data>
+      <data key="d1">UNKNOWN</data>
+    </node>
+    <node id="&lt;Source Entity Name&gt;">
+      <data key="d0">&lt;Source Entity Name&gt;</data>
+      <data key="d3">chunk-d5c4383e0e881a3229f7d959d13d1720</data>
+      <data key="d2">&lt;Target Entity Name&gt;</data>
+      <data key="d1">UNKNOWN</data>
+    </node>
+    <node id="&lt;Agriculture land&gt;">
+      <data key="d0">&lt;Agriculture land&gt;</data>
+      <data key="d3">chunk-e0bb1ba76f699e52377235adf9a8ee90</data>
+      <data key="d2">&lt;source_entity&gt;Agriculture land&lt;/source_entity&gt;</data>
+      <data key="d1">UNKNOWN</data>
+    </node>
+    <node id="&lt;Smart agriculture&gt;">
+      <data key="d0">&lt;Smart agriculture&gt;</data>
+      <data key="d3">chunk-e0bb1ba76f699e52377235adf9a8ee90</data>
+      <data key="d2">&lt;source_entity&gt;Agriculture land&lt;/source_entity&gt;</data>
+      <data key="d1">UNKNOWN</data>
+    </node>
+    <node id="&lt;Source Entity&gt;">
+      <data key="d0">&lt;Source Entity&gt;</data>
+      <data key="d3">chunk-92269c781c9eb74fecaea49de20c674f</data>
+      <data key="d2">&lt;Relationship Description&gt;</data>
+      <data key="d1">UNKNOWN</data>
+    </node>
+    <node id="&lt;Target Entity&gt;">
+      <data key="d0">&lt;Target Entity&gt;</data>
+      <data key="d3">chunk-92269c781c9eb74fecaea49de20c674f</data>
+      <data key="d2">&lt;Relationship Description&gt;</data>
+      <data key="d1">UNKNOWN</data>
+    </node>
+    <node id="&lt;Georgios Giannarakis&gt;">
+      <data key="d0">&lt;Georgios Giannarakis&gt;</data>
+      <data key="d3">chunk-3df3de555ae6c76eac7df38c8fe55942</data>
+      <data key="d2">&lt;collaboration: They have co-authored several papers together.&lt;/|&gt;</data>
+      <data key="d1">UNKNOWN</data>
+    </node>
+    <node id="&lt;target_entity&gt;">
+      <data key="d0">&lt;target_entity&gt;</data>
+      <data key="d3">chunk-54a89a2c91c5ce910c5c6a06a66511ae</data>
+      <data key="d2">&lt;relationship_description&gt;</data>
+      <data key="d1">UNKNOWN</data>
+    </node>
+    <node id="&lt;Transforming India's Agricultural Sector using a Holistic Approach&lt;/|&gt;&lt;source_entity&gt;">
+      <data key="d0">&lt;Transforming India's Agricultural Sector using a Holistic Approach&lt;/|&gt;&lt;source_entity&gt;</data>
+      <data key="d3">chunk-48499eeb7208715e08797ac9a16216eb</data>
+      <data key="d2">Xinyue Kan, Thomas C. Thayer, Stefano Carpin, Konstantinos Karydis&lt;/|&gt;&lt;target_entity&gt;</data>
+      <data key="d1">UNKNOWN</data>
+    </node>
+    <node id="&lt;Index (GVI)&gt;">
+      <data key="d0">&lt;Index (GVI)&gt;</data>
+      <data key="d3">chunk-805abc5c4f1f2871aca087fae2a10433</data>
+      <data key="d2">&lt;person:mention"&gt;</data>
+      <data key="d1">UNKNOWN</data>
+    </node>
+    <node id="&lt;Smit Marazzia&quot;&gt;">
+      <data key="d0">&lt;Smit Marazzia"&gt;</data>
+      <data key="d3">chunk-805abc5c4f1f2871aca087fae2a10433</data>
+      <data key="d2">&lt;person:mention"&gt;</data>
+      <data key="d1">UNKNOWN</data>
+    </node>
+    <edge source="&lt;Person&quot;&gt;" target="&lt;Organization&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;strong&gt;is_a&lt;/|&gt;</data>
+      <data key="d6">&lt;description&gt;&gt;"Relationship between Person and Organization", capitalized</data>
+      <data key="d7">chunk-a957597355224eb7462f4e4a63f217d2</data>
+    </edge>
+    <edge source="&lt;organization&gt;" target="&lt;Transforming India's Agricultural Sector using a Holistic Approach&lt;/|&gt;&lt;source_entity&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">Xinyue Kan, Thomas C. Thayer, Stefano Carpin, Konstantinos Karydis&lt;/|&gt;&lt;target_entity&gt;</data>
+      <data key="d6">&lt;event&gt;</data>
+      <data key="d7">chunk-48499eeb7208715e08797ac9a16216eb</data>
+    </edge>
+    <edge source="&lt;Organization&gt;" target="&lt;source_entity&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;target_entity&gt;</data>
+      <data key="d6">&lt;Organization hosts events (Event) or conducts research (Research</data>
+      <data key="d7">chunk-378563fd6d5054edc2d8456a81660a76</data>
+    </edge>
+    <edge source="&lt;Ilias Tsoumas&gt;" target="&lt;Georgios Giannarakis&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;collaboration: They have co-authored several papers together.&lt;/|&gt;</data>
+      <data key="d6">&lt;relationship_strength: 8/10"&gt;</data>
+      <data key="d7">chunk-3df3de555ae6c76eac7df38c8fe55942</data>
+    </edge>
+    <edge source="&lt;SourceEntity1&gt;" target="&lt;TargetEntity1&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;RelationshipDescription1&gt;</data>
+      <data key="d6">&lt;RelationshipKeywords1&gt;</data>
+      <data key="d7">chunk-22796d54c16030f4952a700ccd618ea5</data>
+    </edge>
+    <edge source="&lt;source_entity&gt;" target="&lt;Source Entity Name&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;Target Entity Name&gt;</data>
+      <data key="d6">&lt;target_entity&gt;</data>
+      <data key="d7">chunk-d5c4383e0e881a3229f7d959d13d1720</data>
+    </edge>
+    <edge source="&lt;source_entity&gt;" target="&lt;target_entity&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;relationship_description&gt;</data>
+      <data key="d6">&lt;relationship_keywords&gt;</data>
+      <data key="d7">chunk-54a89a2c91c5ce910c5c6a06a66511ae</data>
+    </edge>
+    <edge source="&lt;Source Entity 1&gt;" target="&lt;Target Entity 1&gt;">
+      <data key="d4">2.0</data>
+      <data key="d5">&lt;Relationship Description 1&gt;</data>
+      <data key="d6">&lt;Relationship Keywords 1&gt;</data>
+      <data key="d7">chunk-c3cf4a1e3baed60d5c0118f1cfbd8793&lt;SEP&gt;chunk-85d8a4d0e3c7fcd0a5059d21298f6a94</data>
+    </edge>
+    <edge source="&lt;Agriculture land&gt;" target="&lt;Smart agriculture&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;source_entity&gt;Agriculture land&lt;/source_entity&gt;</data>
+      <data key="d6">&lt;target_entity&gt;Smart agriculture&lt;/target_entity&gt;</data>
+      <data key="d7">chunk-e0bb1ba76f699e52377235adf9a8ee90</data>
+    </edge>
+    <edge source="&lt;Source Entity&gt;" target="&lt;Target Entity&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;Relationship Description&gt;</data>
+      <data key="d6">&lt;Relationship Keywords&gt;</data>
+      <data key="d7">chunk-92269c781c9eb74fecaea49de20c674f</data>
+    </edge>
+    <edge source="&lt;Index (GVI)&gt;" target="&lt;Smit Marazzia&quot;&gt;">
+      <data key="d4">1.0</data>
+      <data key="d5">&lt;person:mention"&gt;</data>
+      <data key="d6">&lt;GVI is mentioned in Smit Marazzia's description as a fundamental approach in precision agriculture.&lt;/ relationship_description&gt;</data>
+      <data key="d7">chunk-805abc5c4f1f2871aca087fae2a10433</data>
+    </edge>
+  </graph>
+</graphml>

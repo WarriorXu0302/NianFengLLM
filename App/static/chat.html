@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>智能农业助手 - 岁稔年丰团队</title>
+    <link rel="stylesheet" href="static/chat.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <div class="logo">
+                <img src="/images/nianfeng_logo.png" alt="岁稔年丰科技" class="logo-image">
+                <span>岁稔年丰 · 智能农业助手</span>
+            </div>
+            <div class="header-actions">
+                <button id="clear-chat-btn" title="清空聊天记录">
+                    <i class="fas fa-trash"></i>
+                </button>
+                <button id="back-home-btn" title="返回首页">
+                    <i class="fas fa-home"></i>
+                </button>
+            </div>
+        </div>
+
+        <div class="chat-messages" id="chat-messages">
+            <div class="message assistant">
+                <div class="message-avatar">
+                    <i class="fas fa-robot"></i>
+                </div>
+                <div class="message-content">
+                    <p>你好！我是年丰助手，由岁稔年丰团队开发的智能农业专家系统。我可以帮您解答各类农业问题，或分析您上传的植物图像。<br><br>我具有以下功能：<br>1. 回答农业相关知识问题<br>2. 基于专业农业文档提供解答<br>3. 分析上传的植物图片，识别病害并提供专业防治建议<br><br>请问有什么我可以帮助您的？</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="chat-input-container">
+            <div class="upload-container">
+                <button id="upload-button" title="上传图片">
+                    <i class="fas fa-image"></i>
+                </button>
+                <input type="file" id="image-upload" accept="image/*" style="display: none;">
+            </div>
+            <div class="input-container">
+                <textarea id="message-input" placeholder="输入消息..." rows="1"></textarea>
+                <button id="send-button">
+                    <i class="fas fa-paper-plane"></i>
+                </button>
+            </div>
+        </div>
+
+        <div class="processing-indicator" id="processing-indicator">
+            <div class="spinner"></div>
+            <p>正在处理...</p>
+        </div>
+
+        <div class="footer">
+            <p>© 2025 岁稔年丰团队 | <a href="/" class="footer-link">返回首页</a></p>
+        </div>
+    </div>
+
+    <div class="image-preview-modal" id="image-preview-modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <img id="preview-image" src="" alt="预览">
+            <div class="modal-buttons">
+                <button id="cancel-upload">取消</button>
+                <button id="confirm-upload">确认上传</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="static/chat.js"></script>
+</body>
+</html>

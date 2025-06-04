@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF知识库管理 - 岁稔年丰科技</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #4CAF50;
+            --secondary-color: #388E3C;
+            --accent-color: #8BC34A;
+            --text-color: #333;
+            --light-color: #f8f9fa;
+            --dark-color: #212529;
+            --gray-color: #6c757d;
+            --danger-color: #dc3545;
+            --warning-color: #ffc107;
+            --success-color: #28a745;
+            --info-color: #17a2b8;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Noto Sans SC', sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--light-color);
+            padding-bottom: 50px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        
+        .logo {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            margin-bottom: 10px;
+        }
+        
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+        
+        .card {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            padding: 20px;
+            margin: 20px 0;
+        }
+        
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .card-title {
+            font-size: 1.5rem;
+            color: var(--secondary-color);
+        }
+        
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            border-radius: 4px;
+            border: none;
+            text-decoration: none;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .btn-primary {
+            background-color: var(--primary-color);
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            background-color: var(--secondary-color);
+        }
+        
+        .btn-danger {
+            background-color: var(--danger-color);
+            color: white;
+        }
+        
+        .btn-danger:hover {
+            background-color: #bd2130;
+        }
+        
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        .table th, .table td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .table th {
+            font-weight: 600;
+            color: var(--secondary-color);
+        }
+        
+        .table tr:hover {
+            background-color: rgba(139, 195, 74, 0.1);
+        }
+        
+        .file-upload {
+            margin: 20px 0;
+            padding: 20px;
+            border: 2px dashed #ccc;
+            border-radius: 8px;
+            text-align: center;
+        }
+        
+        .file-upload.highlight {
+            border-color: var(--primary-color);
+            background-color: rgba(139, 195, 74, 0.1);
+        }
+        
+        .file-input {
+            display: none;
+        }
+        
+        .file-label {
+            display: block;
+            cursor: pointer;
+            padding: 20px;
+        }
+        
+        .file-icon {
+            font-size: 3rem;
+            color: var(--gray-color);
+            margin-bottom: 10px;
+        }
+        
+        .alert {
+            padding: 12px 20px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+        }
+        
+        .alert-success {
+            background-color: rgba(40, 167, 69, 0.1);
+            border: 1px solid rgba(40, 167, 69, 0.2);
+            color: var(--success-color);
+        }
+        
+        .alert-danger {
+            background-color: rgba(220, 53, 69, 0.1);
+            border: 1px solid rgba(220, 53, 69, 0.2);
+            color: var(--danger-color);
+        }
+        
+        .alert-warning {
+            background-color: rgba(255, 193, 7, 0.1);
+            border: 1px solid rgba(255, 193, 7, 0.2);
+            color: var(--warning-color);
+        }
+        
+        .alert-info {
+            background-color: rgba(23, 162, 184, 0.1);
+            border: 1px solid rgba(23, 162, 184, 0.2);
+            color: var(--info-color);
+        }
+        
+        .spinner {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid rgba(255, 255, 255, 0.3);
+            border-radius: 50%;
+            border-top-color: white;
+            animation: spin 1s ease-in-out infinite;
+            margin-right: 10px;
+        }
+        
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        
+        .hidden {
+            display: none;
+        }
+        
+        .modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+        
+        .modal-content {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            max-width: 500px;
+            width: 100%;
+        }
+        
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .modal-title {
+            font-size: 1.5rem;
+            color: var(--secondary-color);
+        }
+        
+        .modal-close {
+            font-size: 1.5rem;
+            color: var(--gray-color);
+            cursor: pointer;
+            background: none;
+            border: none;
+        }
+        
+        .modal-body {
+            margin-bottom: 20px;
+        }
+        
+        .modal-footer {
+            display: flex;
+            justify-content: flex-end;
+            gap: 10px;
+        }
+        
+        .mb-3 {
+            margin-bottom: 15px;
+        }
+        
+        .nav-links {
+            margin: 20px 0;
+            display: flex;
+            gap: 10px;
+        }
+        
+        .nav-link {
+            padding: 8px 16px;
+            background-color: white;
+            color: var(--text-color);
+            text-decoration: none;
+            border-radius: 4px;
+            transition: all 0.3s;
+        }
+        
+        .nav-link:hover {
+            background-color: rgba(139, 195, 74, 0.1);
+        }
+        
+        .nav-link.active {
+            background-color: var(--primary-color);
+            color: white;
+        }
+        
+        .progress-container {
+            width: 100%;
+            margin: 20px 0;
+        }
+        
+        .progress-bar {
+            height: 20px;
+            background-color: #e9ecef;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        
+        .progress-bar-fill {
+            height: 100%;
+            background-color: var(--primary-color);
+            transition: width 0.3s ease;
+        }
+        
+        .progress-text {
+            text-align: center;
+            margin-top: 5px;
+            font-size: 0.9rem;
+            color: var(--gray-color);
+        }
+        
+        .footer {
+            text-align: center;
+            margin-top: 50px;
+            color: var(--gray-color);
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <img src="/images/nianfeng_logo.png" alt="岁稔年丰科技" class="logo">
+            <h1>PDF知识库管理</h1>
+            <p class="subtitle">上传和管理您的PDF文档，用于智能问答</p>
+        </div>
+    </header>
+    
+    <div class="container">
+        <div class="nav-links">
+            <a href="/" class="nav-link">首页</a>
+            <a href="/chat" class="nav-link">聊天界面</a>
+            <a href="/manage_pdf" class="nav-link active">PDF知识库</a>
+        </div>
+        
+        <div id="alert-container"></div>
+        
+        <div class="card">
+            <div class="card-header">
+                <h2 class="card-title">上传PDF文档</h2>
+            </div>
+            <div class="file-upload" id="file-upload" ondragover="event.preventDefault()" ondrop="dropHandler(event)">
+                <input type="file" id="file-input" class="file-input" accept=".pdf" multiple onchange="handleFiles(this.files)">
+                <label for="file-input" class="file-label">
+                    <div class="file-icon"><i class="fas fa-file-pdf"></i></div>
+                    <p>点击或拖放PDF文件到此处上传</p>
+                    <small>支持单个或多个PDF文件</small>
+                </label>
+            </div>
+        </div>
+        
+        <div class="card">
+            <div class="card-header">
+                <h2 class="card-title">PDF文档列表</h2>
+                <div>
+                    <button id="process-pdfs-btn" class="btn btn-primary" onclick="processAllPdfs()">
+                        <span id="process-spinner" class="spinner hidden"></span>
+                        <span id="process-text">处理所有PDF文件</span>
+                    </button>
+                </div>
+            </div>
+            <div id="pdf-list-container">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>文件名</th>
+                            <th>大小</th>
+                            <th>上传时间</th>
+                            <th>操作</th>
+                        </tr>
+                    </thead>
+                    <tbody id="pdf-list">
+                        <tr>
+                            <td colspan="4" style="text-align: center;">加载中...</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    
+    <div id="confirm-modal" class="modal hidden">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title">确认删除</h3>
+                <button class="modal-close" onclick="closeModal()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p>确定要删除文件 <span id="confirm-filename"></span> 吗？</p>
+                <p>此操作无法撤销。</p>
+            </div>
+            <div class="modal-footer">
+                <button class="btn" onclick="closeModal()">取消</button>
+                <button id="confirm-delete-btn" class="btn btn-danger" onclick="confirmDelete()">删除</button>
+            </div>
+        </div>
+    </div>
+    
+    <div id="process-modal" class="modal hidden">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title">处理结果</h3>
+                <button class="modal-close" onclick="closeProcessModal()">&times;</button>
+            </div>
+            <div class="modal-body" id="process-result">
+                <!-- 处理结果将在这里显示 -->
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-primary" onclick="closeProcessModal()">确定</button>
+            </div>
+        </div>
+    </div>
+    
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 岁稔年丰科技团队 | Nianfeng Technology</p>
+        </div>
+    </footer>
+    
+    <script>
+        // 页面加载完成后获取PDF列表
+        document.addEventListener('DOMContentLoaded', function() {
+            loadPdfList();
+            
+            // 为文件上传区域添加事件监听器
+            const fileUpload = document.getElementById('file-upload');
+            fileUpload.addEventListener('dragover', function(e) {
+                e.preventDefault();
+                fileUpload.classList.add('highlight');
+            });
+            
+            fileUpload.addEventListener('dragleave', function() {
+                fileUpload.classList.remove('highlight');
+            });
+            
+            fileUpload.addEventListener('drop', function(e) {
+                e.preventDefault();
+                fileUpload.classList.remove('highlight');
+                const files = e.dataTransfer.files;
+                handleFiles(files);
+            });
+        });
+        
+        // 加载PDF列表
+        function loadPdfList() {
+            fetch('/api/pdf/list')
+                .then(response => response.json())
+                .then(data => {
+                    const pdfList = document.getElementById('pdf-list');
+                    
+                    if (!data || data.length === 0) {
+                        pdfList.innerHTML = '<tr><td colspan="4" style="text-align: center;">没有找到PDF文件</td></tr>';
+                        return;
+                    }
+                    
+                    let html = '';
+                    data.forEach(file => {
+                        const fileSize = formatFileSize(file.size);
+                        html += `
+                        <tr>
+                            <td>${file.filename}</td>
+                            <td>${fileSize}</td>
+                            <td>${file.modified}</td>
+                            <td>
+                                <button class="btn btn-danger" onclick="deletePdf('${file.filename}')">删除</button>
+                            </td>
+                        </tr>
+                        `;
+                    });
+                    
+                    pdfList.innerHTML = html;
+                })
+                .catch(error => {
+                    console.error('获取PDF列表时出错:', error);
+                    showAlert('获取PDF列表时出错: ' + error.message, 'danger');
+                });
+        }
+        
+        // 处理文件上传
+        function handleFiles(files) {
+            if (!files || files.length === 0) return;
+            
+            // 过滤出PDF文件
+            const pdfFiles = Array.from(files).filter(file => file.type === 'application/pdf');
+            
+            if (pdfFiles.length === 0) {
+                showAlert('请选择PDF文件上传', 'warning');
+                return;
+            }
+            
+            // 逐个上传文件
+            let successCount = 0;
+            let failureCount = 0;
+            let totalCount = pdfFiles.length;
+            
+            pdfFiles.forEach(file => {
+                const formData = new FormData();
+                formData.append('pdf', file);
+                
+                fetch('/api/pdf/upload', {
+                    method: 'POST',
+                    body: formData
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        successCount++;
+                        if (successCount + failureCount === totalCount) {
+                            showUploadSummary(successCount, failureCount, totalCount);
+                        }
+                    } else {
+                        failureCount++;
+                        console.error('上传PDF文件时出错:', data.error);
+                        if (successCount + failureCount === totalCount) {
+                            showUploadSummary(successCount, failureCount, totalCount);
+                        }
+                    }
+                })
+                .catch(error => {
+                    failureCount++;
+                    console.error('上传PDF文件时出错:', error);
+                    if (successCount + failureCount === totalCount) {
+                        showUploadSummary(successCount, failureCount, totalCount);
+                    }
+                });
+            });
+        }
+        
+        // 显示上传结果摘要
+        function showUploadSummary(successCount, failureCount, totalCount) {
+            if (successCount === totalCount) {
+                showAlert(`所有 ${totalCount} 个PDF文件上传成功！`, 'success');
+            } else if (successCount > 0 && failureCount > 0) {
+                showAlert(`上传完成：${successCount} 个成功，${failureCount} 个失败`, 'warning');
+            } else {
+                showAlert(`所有 ${totalCount} 个PDF文件上传失败`, 'danger');
+            }
+            
+            // 刷新PDF列表
+            loadPdfList();
+        }
+        
+        // 删除PDF文件
+        function deletePdf(filename) {
+            // 显示确认对话框
+            document.getElementById('confirm-filename').textContent = filename;
+            document.getElementById('confirm-delete-btn').onclick = function() {
+                confirmDelete(filename);
+            };
+            document.getElementById('confirm-modal').classList.remove('hidden');
+        }
+        
+        // 确认删除PDF文件
+        function confirmDelete(filename) {
+            fetch('/api/pdf/delete', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ filename: filename })
+            })
+            .then(response => response.json())
+            .then(data => {
+                closeModal();
+                if (data.success) {
+                    showAlert(`文件 ${filename} 已成功删除`, 'success');
+                    loadPdfList();
+                } else {
+                    showAlert(`删除文件时出错: ${data.error}`, 'danger');
+                }
+            })
+            .catch(error => {
+                closeModal();
+                console.error('删除PDF文件时出错:', error);
+                showAlert('删除PDF文件时出错: ' + error.message, 'danger');
+            });
+        }
+        
+        // 处理所有PDF文件
+        function processAllPdfs() {
+            // 显示加载状态
+            const spinner = document.getElementById('process-spinner');
+            const text = document.getElementById('process-text');
+            const btn = document.getElementById('process-pdfs-btn');
+            
+            spinner.classList.remove('hidden');
+            text.textContent = '处理中...';
+            btn.disabled = true;
+            
+            fetch('/api/pdf/process', {
+                method: 'POST'
+            })
+            .then(response => response.json())
+            .then(data => {
+                spinner.classList.add('hidden');
+                text.textContent = '处理所有PDF文件';
+                btn.disabled = false;
+                
+                showProcessResult(data);
+            })
+            .catch(error => {
+                spinner.classList.add('hidden');
+                text.textContent = '处理所有PDF文件';
+                btn.disabled = false;
+                
+                console.error('处理PDF文件时出错:', error);
+                showAlert('处理PDF文件时出错: ' + error.message, 'danger');
+            });
+        }
+        
+        // 显示处理结果
+        function showProcessResult(data) {
+            const resultContainer = document.getElementById('process-result');
+            let html = '';
+            
+            if (data.success) {
+                html += `<div class="alert alert-success">${data.message}</div>`;
+                
+                if (data.processed_files && data.processed_files.length > 0) {
+                    html += '<h4>处理成功的文件</h4>';
+                    html += '<ul>';
+                    data.processed_files.forEach(file => {
+                        html += `<li>${file}</li>`;
+                    });
+                    html += '</ul>';
+                }
+            } else {
+                html += `<div class="alert alert-danger">${data.error || data.message}</div>`;
+            }
+            
+            if (data.failed_files && data.failed_files.length > 0) {
+                html += '<h4>处理失败的文件</h4>';
+                html += '<ul>';
+                data.failed_files.forEach(file => {
+                    html += `<li>${file.filename}: ${file.reason}</li>`;
+                });
+                html += '</ul>';
+            }
+            
+            resultContainer.innerHTML = html;
+            document.getElementById('process-modal').classList.remove('hidden');
+        }
+        
+        // 关闭确认对话框
+        function closeModal() {
+            document.getElementById('confirm-modal').classList.add('hidden');
+        }
+        
+        // 关闭处理结果对话框
+        function closeProcessModal() {
+            document.getElementById('process-modal').classList.add('hidden');
+        }
+        
+        // 显示警告信息
+        function showAlert(message, type) {
+            const alertContainer = document.getElementById('alert-container');
+            const alert = document.createElement('div');
+            alert.className = `alert alert-${type}`;
+            alert.innerHTML = message;
+            
+            alertContainer.appendChild(alert);
+            
+            // 5秒后自动关闭
+            setTimeout(() => {
+                alert.style.opacity = '0';
+                alert.style.transition = 'opacity 0.5s';
+                setTimeout(() => {
+                    alertContainer.removeChild(alert);
+                }, 500);
+            }, 5000);
+        }
+        
+        // 格式化文件大小
+        function formatFileSize(bytes) {
+            if (bytes === 0) return '0 Bytes';
+            
+            const k = 1024;
+            const sizes = ['Bytes', 'KB', 'MB', 'GB', 'TB'];
+            const i = Math.floor(Math.log(bytes) / Math.log(k));
+            
+            return parseFloat((bytes / Math.pow(k, i)).toFixed(2)) + ' ' + sizes[i];
+        }
+        
+        // 拖放处理函数
+        function dropHandler(event) {
+            event.preventDefault();
+            document.getElementById('file-upload').classList.remove('highlight');
+            const files = event.dataTransfer.files;
+            handleFiles(files);
+        }
+    </script>
+</body>
+</html> 

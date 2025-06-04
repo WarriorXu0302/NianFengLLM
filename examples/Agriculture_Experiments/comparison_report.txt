@@ -1,0 +1,17 @@
+
+PERFORMANCE COMPARISON REPORT
+============================
+
+Query Performance:
+-----------------
+Default Settings Average Query Time: 0.00 ms
+Custom Settings Average Query Time:  0.00 ms
+Speed Improvement:                  0.00% slower with Custom Settings
+
+Document Processing:
+-------------------
+Default Settings Processing Time: 0.00 ms
+Custom Settings Processing Time:  0.00 ms
+
+Individual Query Performance:
+---------------------------

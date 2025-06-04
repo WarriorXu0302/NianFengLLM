@@ -1,0 +1,2330 @@
+Node,Label
+Louis,I-PER
+Robert Louis Stevenson,PERSON
+Robert,I-PER
+A,I-PER
+J,I-PER
+##ap,I-PER
+one,CARDINAL
+A. H. Japp,PERSON
+##p,I-PER
+two,CARDINAL
+Stevenson,I-PER
+H,I-PER
+##MI,I-MISC
+First,ORDINAL
+MEN,ORG
+##L,I-MISC
+Preface,GPE
+##IA,I-MISC
+Da,I-LOC
+Davos,GPE
+##vos,I-LOC
+##face,I-MISC
+28- 29,DATE
+Pre,I-MISC
+three,CARDINAL
+eleven,CARDINAL
+19,CARDINAL
+ALEXANDER H. JAPP,PERSON
+AL,I-ORG
+##DE,I-ORG
+##EX,I-ORG
+##AN,I-ORG
+##LA,I-LOC
+IS,I-LOC
+##ND,I-LOC
+##N,I-MISC
+HEREDITY ILLUSTRATED V. TRAVELS VI,PERSON
+##ED,I-ORG
+##ER,I-ORG
+##IL,I-ORG
+THE,I-ORG
+VA,I-ORG
+##IM,I-ORG
+##A,I-ORG
+LATER YEARS IX,EVENT
+##ST,I-MISC
+##IC,I-MISC
+##AR,I-MISC
+##AC,I-MISC
+##RI,I-MISC
+CH,I-MISC
+##TE,I-MISC
+R. L. STEVENSON XI,PERSON
+SA,I-MISC
+##NS,I-MISC
+XI,I-ORG
+L,I-ORG
+##VE,I-ORG
+##E,I-ORG
+ST,I-ORG
+##ON,I-MISC
+##MO,I-MISC
+R,I-ORG
+MI,I-PER
+##U,I-ORG
+MYSTIC,ORG
+M,I-MISC
+PREACHER,ORG
+##B,I-MISC
+##Y,I-MISC
+G,I-PER
+##R,I-MISC
+##IS,I-MISC
+E,I-MISC
+##IT,I-ORG
+XXII,GPE
+UNITY,ORG
+UN,I-ORG
+##O,I-ORG
+D,I-MISC
+EDINBURGH,ORG
+##DI,I-ORG
+##EN,I-ORG
+HENLEY'S,PERSON
+XXV,ORG
+MR,I-PER
+##LE,I-ORG
+##IE,I-PER
+X,I-ORG
+O,I-ORG
+##OR,I-ORG
+MA,I-PER
+MARRIOTT WATSON,PERSON
+##X,I-ORG
+WA,I-ORG
+UNEXPECTED COMBINATIONS XXIX,PERSON
+##GA,I-MISC
+##BO,I-MISC
+##OS,I-ORG
+##BE,I-ORG
+GOSSE,PERSON
+P,I-ORG
+ERRORS,ORG
+##M,I-MISC
+CR,I-MISC
+Thor,I-PER
+England,I-LOC
+##eau,I-PER
+##H,I-ORG
+##IN,I-ORG
+.,I-PER
+Thoreau,GPE
+##Z,I-ORG
+CO,I-ORG
+R. L. Stevenson,PERSON
+Northern Scotland,LOC
+Scotland,I-LOC
+Surrey,PERSON
+Northern,I-LOC
+North,I-LOC
+North to,NORP
+South,LOC
+American,I-MISC
+America,I-LOC
+English,LANGUAGE
+CORNHILL,ORG
+Hammerton,PERSON
+##ton,I-PER
+Hammer,I-PER
+California,GPE
+##NA,I-ORG
+One,CARDINAL
+half,CARDINAL
+his years,DATE
+Yorkshire,PERSON
+1,CARDINAL
+##ran,I-PER
+##well,I-PER
+B,I-PER
+Branwell Bronte,PERSON
+##te,I-PER
+##ron,I-PER
+SP,I-ORG
+##TA,I-ORG
+##EC,I-ORG
+##TO,I-ORG
+Humour,PERSON
+Her,I-LOC
+City,I-LOC
+##iot,I-LOC
+Edinburgh,GPE
+17,CARDINAL
+Row,I-LOC
+SUNDAY,GPE
+BR,I-LOC
+##EM,I-LOC
+AUGUST,PERSON
+CASTLETON OF BRAEMAR,ORG
+TH,ORG
+1881,DATE
+Sunday,DATE
+first,ORDINAL
+Braemar,PERSON
+##rae,I-LOC
+##mar,I-LOC
+Second,ORDINAL
+Thousands,CARDINAL
+WALE,ORG
+Tu,I-LOC
+##ls,I-LOC
+##mme,I-LOC
+##ide,I-LOC
+##UI,I-ORG
+ROBERT LOUIS STEVENSON,ORG
+London,I-LOC
+Wednesday,DATE
+Tuesday,DATE
+the end of September,DATE
+Re,I-MISC
+##rand,I-MISC
+##tes,I-MISC
+Inverness,ORG
+##que,I-MISC
+##mb,I-MISC
+Spanish,I-MISC
+##r,I-PER
+the Ancient Mariner,ORG
+Marine,I-PER
+Ancient,I-PER
+Scotch,I-MISC
+one winter,DATE
+S,I-MISC
+##s,I-PER
+##latz,I-LOC
+##RA,I-LOC
+##D,I-MISC
+Silver,I-MISC
+John,I-PER
+##dington,I-PER
+Davos Platz,FAC
+several winters,DATE
+##ond,I-PER
+John Addington Symonds,PERSON
+Ad,I-PER
+##ym,I-PER
+##ado,I-MISC
+Samuel,I-PER
+Mrs Stevenson,PERSON
+Samuel Lloyd Osbourne,PERSON
+Lloyd,I-PER
+half intentional,CARDINAL
+##bourne,I-PER
+twelve,CARDINAL
+Lloyd's,ORG
+s,I-ORG
+',I-ORG
+Silverado,GPE
+T,I-MISC
+##UR,I-MISC
+##AS,I-MISC
+##RE,I-MISC
+##bel,I-MISC
+Ra,I-MISC
+##ais,I-MISC
+##ian,I-MISC
+Rabelaisian,NORP
+Lloyd Osbourne,PERSON
+THE BLACK CANYON,WORK_OF_ART
+##C,I-MISC
+CA,I-MISC
+##K,I-MISC
+Samuel L. Osbourne,PERSON
+this day,DATE
+C,I-MISC
+SC,I-MISC
+##P,I-MISC
+##UE,I-MISC
+the BLUE SCALPER,ORG
+Company,I-ORG
+and,I-ORG
+S. L. Osbourne,PERSON
+##rte,I-PER
+Cortez,ORG
+Co,I-PER
+daily,DATE
+PEAK,ORG
+##z,I-PER
+eagles,GPE
+Heroes,GPE
+Ju,I-PER
+##mbo,I-PER
+I,I-PER
+ELEPHANT,ORG
+Trumpeting Jumbo,PERSON
+Sacred,I-PER
+Joys,PERSON
+##NT,I-ORG
+##HA,I-ORG
+The Sacred Ibis,WORK_OF_ART
+##bis,I-PER
+Sam,PERSON
+FIRST,ORDINAL
+second,ORDINAL
+a new quarter,DATE
+SE,I-MISC
+##OK,I-MISC
+John Silver,PERSON
+CHAPTER II - TREASURE ISLAND,LAW
+PA,I-ORG
+YOU,I-ORG
+##OL,I-ORG
+Henderson,PERSON
+##NG,I-ORG
+F,I-ORG
+IDLER,ORG
+ID,I-ORG
+MAC,I-ORG
+##G,I-MISC
+Dr Japp,PERSON
+August 1894,DATE
+sixteen,CARDINAL
+The,I-MISC
+End,I-MISC
+EDWARD DAVEN,PERSON
+##TH,I-ORG
+##ING,I-ORG
+RA,I-PER
+##AV,I-ORG
+V,I-ORG
+K,I-ORG
+##TT,I-ORG
+THE KING'S,ORG
+twenty-nine,CARDINAL
+fifteen,CARDINAL
+thirty-one,CARDINAL
+##TY,I-MISC
+CHRISTIANITY,NORP
+##NI,I-MISC
+##S,I-MISC
+Several days,DATE
+Scottish,I-MISC
+Church,I-MISC
+the Scottish Church,ORG
+Castleton,ORG
+Castle,I-LOC
+September 1881,DATE
+two days,DATE
+nine,CARDINAL
+Dinnat,ORG
+Din,I-LOC
+##nat,I-LOC
+Bar,I-ORG
+the afternoon,TIME
+the Scottish Bar,FAC
+Bob Bain,PERSON
+Bai,I-PER
+Bob,I-PER
+##n,I-PER
+five,CARDINAL
+of,I-ORG
+the Established Church of Scotland,ORG
+his day,DATE
+Established,I-ORG
+nights,TIME
+shrillish,NORP
+Thomas,I-PER
+2,CARDINAL
+Thomas Stevenson,PERSON
+House,I-LOC
+the,I-LOC
+Parliament,I-ORG
+the Parliament House,ORG
+Court,I-ORG
+Chief,I-LOC
+Hall,I-LOC
+Griff Stevenson,PERSON
+##riff,I-PER
+Van,I-PER
+der,I-PER
+Fanny,I-PER
+Fanny Van,PERSON
+the Hall of the Edinburgh Parliament House,WORK_OF_ART
+Stevensons,PRODUCT
+Dante,I-PER
+3,CARDINAL
+##F,I-ORG
+##VI,I-ORG
+Sc,I-MISC
+##rip,I-MISC
+##ture,I-MISC
+IN,I-MISC
+MEMORIAM,ORG
+ultra,I-MISC
+Calvin,I-MISC
+SWITZERLAND,GPE
+CHALET,NORP
+##WI,I-LOC
+##SO,I-ORG
+##T,I-LOC
+DAVOS,ORG
+##ET,I-ORG
+##AL,I-ORG
+##RT,I-ORG
+May,DATE
+Samuel Osbourne,PERSON
+"APRIL 1st, 1882",DATE
+Knox,I-PER
+John Knox,PERSON
+Cornhill,ORG
+December ninety,DATE
+##rn,I-ORG
+##hill,I-ORG
+Magazine,ORG
+"40,000",CARDINAL
+Symonds,PERSON
+Alexander,I-PER
+Alexander Pope,PERSON
+Pope,I-PER
+these days,DATE
+1893,DATE
+the ATALANTA Magazine,ORG
+AT,I-ORG
+ATALANTA,ORG
+Louis Stevenson,PERSON
+R. L. Stevenson's,PERSON
+Douglas,I-PER
+Russ,I-PER
+Fettes Douglas,PERSON
+Russel,ORG
+##el,I-PER
+##ttes,I-PER
+Fe,I-PER
+4,CARDINAL
+Fleeming Jenkin,PERSON
+##lee,I-PER
+Jen,I-PER
+##ming,I-PER
+##kin,I-PER
+##istic,I-MISC
+##our,I-PER
+Colin,I-LOC
+Ba,I-PER
+Colinton,ORG
+Dr,I-PER
+eighty,CARDINAL
+##lf,I-PER
+##har,I-PER
+the Parish Church,ORG
+##OT,I-ORG
+Joseph,PERSON
+##tip,I-PER
+##SM,I-MISC
+Balfour,ORG
+Mr Russell,PERSON
+SCOTSMAN,FAC
+Russell,I-PER
+Potiphar,PERSON
+some years,DATE
+Parish,I-LOC
+Po,I-PER
+##ION,I-ORG
+##TR,I-ORG
+WEIR OF HERMISTON,ORG
+R. L. STEVENSON,PERSON
+13th November 1850,DATE
+Robert Stevenson,PERSON
+CHAPTER III - THE CHILD FATHER,PRODUCT
+the very year,DATE
+##um,I-PER
+Alison Cunningham,PERSON
+Alison,I-PER
+Cunningham,I-PER
+##y,I-PER
+Cumy,PERSON
+AUTHOR,ORG
+SK,I-LOC
+##VO,I-LOC
+18TH JULY 1888,DATE
+Skerryvore,PERSON
+##vor,I-LOC
+##ry,I-LOC
+Bournemouth,ORG
+##ker,I-LOC
+##e,I-LOC
+AN,I-MISC
+all the years,DATE
+a single evening,TIME
+AU,I-ORG
+"""",I-PER
+Baildon,PERSON
+##ldon,I-PER
+Goethe,I-PER
+32,CARDINAL
+##lman,I-PER
+Kelman,PERSON
+Ke,I-PER
+##haft,I-PER
+##bury,I-PER
+##es,I-PER
+Christianity,I-MISC
+Paris,GPE
+1878,DATE
+God,I-PER
+Divine,ORG
+Covenant,I-MISC
+the Pentland Hills,GPE
+Hills,I-LOC
+Covenanters,ORG
+##ers,I-MISC
+##tland,I-LOC
+Pen,I-LOC
+John Knox's,PERSON
+##ie,I-PER
+Black,I-PER
+College,I-ORG
+Professor,ORG
+Blackie,PERSON
+Greek,I-MISC
+more than a dozen,CARDINAL
+##UM,I-ORG
+##IO,I-MISC
+HUMANIORES,ORG
+Charles Pomander,PERSON
+Peter,I-PER
+##zle,I-PER
+Charles,I-PER
+Tea,I-PER
+##ours,I-PER
+##er,I-PER
+##mand,I-PER
+Peter Teazle,PERSON
+##ir,I-LOC
+Halkerside,GPE
+##mu,I-LOC
+Allermuir,PERSON
+##ae,I-LOC
+##kers,I-LOC
+All,I-LOC
+Caerketton,ORG
+##etto,I-LOC
+LONGMAN'S,ORG
+##rk,I-LOC
+Hal,I-LOC
+##GM,I-ORG
+Spring,I-MISC
+##h,I-LOC
+Fife,I-LOC
+Forth Wheels,PRODUCT
+Fort,I-LOC
+Thrills,NORP
+continental,ORG
+CHAPTER IV - HEREDITY,ORG
+George Eliot's,PERSON
+Eliot,I-PER
+George,I-PER
+##apon,I-MISC
+season,DATE
+japonica,GPE
+Rock,I-LOC
+Bell Rock,GPE
+Bell,I-LOC
+annual,DATE
+Walter Scott,PERSON
+Walter,I-PER
+the Bell Rock,FAC
+##IG,I-MISC
+Scott,ORG
+Bound,ORG
+1850,DATE
+night,TIME
+'15,DATE
+Henley,GPE
+##ist,I-MISC
+Calvinist,ORG
+'45,DATE
+##ith,I-LOC
+About 1650,CARDINAL
+##ba,I-LOC
+##l,I-LOC
+Chalmers of Balbaithan,ORG
+James,I-PER
+J. F. George,PERSON
+##TI,I-MISC
+##hall,I-LOC
+Keithhall,ORG
+Session,I-ORG
+##lmer,I-PER
+James Balfour,PERSON
+##an,I-LOC
+Keith,I-LOC
+Bridget,GPE
+Cha,I-PER
+the Principal Clerks,ORG
+the Court of Session,ORG
+Balbaithan,GPE
+1696,DATE
+Magistrate of Edinburgh,ORG
+Merchant,PRODUCT
+1699,CARDINAL
+##ien,I-ORG
+the Darien Company,ORG
+Dar,I-ORG
+Logie,PERSON
+Mary,PERSON
+##phi,I-ORG
+##rig,I-LOC
+Edinburgh University,ORG
+Gilbert Elliot,PERSON
+CATRIONA,ORG
+El,I-PER
+##one,I-PER
+##gie,I-LOC
+Aberdeen,I-LOC
+Mint,I-LOC
+##shire,I-LOC
+Sheriff of Aberdeen,ORG
+1705 - 1795,DATE
+##o,I-LOC
+Cecilia,GPE
+##ch,I-MISC
+Gilbert,I-PER
+Garioch,ORG
+fifth,ORDINAL
+Lo,I-LOC
+##nst,I-PER
+University,I-ORG
+Pi,I-LOC
+John Elphinstone,PERSON
+Elliot,I-PER
+Minto,GPE
+##bat,I-LOC
+Land,I-LOC
+the Debatable Land,ORG
+De,I-MISC
+##able,I-MISC
+Elphinstone,ORG
+Glack,ORG
+##ones,I-ORG
+Nicholas Elphinstone,PERSON
+1499,DATE
+Logie Elphinstones,ORG
+##la,I-ORG
+##ck,I-ORG
+Nicholas,I-PER
+Bart,PERSON
+Forbes,I-PER
+Bonn,I-LOC
+William Elphinstone,PERSON
+Wood,I-PER
+William,I-PER
+Bonnyton,GPE
+Margaret Forbes,PERSON
+Elizabeth Wood,PERSON
+1701,DATE
+James of Glack,PERSON
+James Elphinstone,PERSON
+Margaret,I-PER
+Elizabeth,I-PER
+##yton,I-LOC
+Elgin,I-LOC
+Bishop,ORG
+Badenoch,GPE
+##ull,I-PER
+Kildare,I-PER
+##aw,I-PER
+France,GPE
+Cathedral,I-LOC
+##och,I-PER
+Baden,I-PER
+the Victor of Harlaw,ORG
+Ha,I-PER
+##rl,I-PER
+Wolf,PERSON
+Victor,I-PER
+John O'Coull,PERSON
+##wall,I-LOC
+David,I-PER
+days,DATE
+Ed,I-LOC
+Tiger,I-PER
+Charlie,PERSON
+Dundee,ORG
+his days,DATE
+Beard,I-PER
+##ight,I-PER
+##ssel,I-PER
+Mu,I-PER
+Kirk,I-LOC
+David Lindsay,PERSON
+##ite,I-MISC
+Jean Lindsay,PERSON
+Master,I-PER
+Lindsay,PERSON
+Earl,I-PER
+Jacobite,NORP
+Tusitala,PERSON
+Mo,I-PER
+##rd,I-PER
+Jacob,I-MISC
+the later Gordons of Gight,ORG
+Earl Beardie,PERSON
+##a,I-PER
+Jean,I-PER
+Gordon,I-PER
+Crawford,GPE
+##zel,I-LOC
+##si,I-PER
+##tal,I-PER
+##son,I-PER
+Fergus,I-PER
+Robert Fergusson,PERSON
+##on,I-ORG
+##uh,I-ORG
+the Tolquhon Forbeses,ORG
+To,I-PER
+##q,I-PER
+##rum,I-LOC
+Tolquhon,GPE
+Kildrummy,PRODUCT
+Elizabeth Forbes,PERSON
+##my,I-ORG
+Fergusson,ORG
+##ld,I-LOC
+Ki,I-MISC
+Highland,LOC
+Celtic,I-MISC
+5,CARDINAL
+##g,I-PER
+Rob,I-PER
+Rob Roy,PERSON
+##re,I-PER
+Roy,I-PER
+Macgregor,PRODUCT
+Mac,I-PER
+##gor,I-PER
+Balfours,PERSON
+Archer,I-PER
+William Archer,PERSON
+FRIENDS,ORG
+##CL,I-ORG
+THE DAILY CHRONICLE,ORG
+##RO,I-ORG
+Francis,I-PER
+Thompson,I-PER
+Francis Thompson,PERSON
+hypochondria,GPE
+frailty,CARDINAL
+##lean,I-MISC
+Carly,I-MISC
+Carlylean,NORP
+twenty-four,CARDINAL
+##ston,I-LOC
+Sit,I-PER
+Swanston,GPE
+Swan,I-LOC
+Mrs Sitwell,PERSON
+all day,DATE
+Nine years later,DATE
+##IF,I-MISC
+##rley,I-MISC
+Waverley,PERSON
+Wave,I-MISC
+every day,DATE
+another year,DATE
+thirty-three,CARDINAL
+##ech,I-MISC
+##ism,I-MISC
+Short,I-MISC
+Cat,I-MISC
+kindest,PERSON
+Testament,I-MISC
+the New Testament,EVENT
+New,I-MISC
+Bohemian,I-MISC
+##tan,I-MISC
+##uri,I-MISC
+Hedonist,ORG
+He,I-MISC
+Puritan,GPE
+the Haymarket Theatre,FAC
+Mr Tree,PERSON
+##market,I-LOC
+##EA,I-MISC
+##bo,I-PER
+##hm,I-PER
+Beerbohm Tree,PERSON
+Tree,I-PER
+Hay,I-LOC
+only one,CARDINAL
+Theatre,I-LOC
+Beer,I-PER
+Stevensonian,NORP
+Simpson,I-PER
+Bob' Stevenson,PERSON
+The R. L. Stevenson,WORK_OF_ART
+Velvet Coat',PRODUCT
+Velvet,I-PER
+##at,I-PER
+Dickens,I-PER
+OF,I-ORG
+his callow days,DATE
+CHAPTER V - TRAVELS,ORG
+College Magazines,PERSON
+MACMILLAN'S,ORG
+##LL,I-ORG
+CEVENNES,ORG
+##st,I-PER
+Ce,I-LOC
+Modestine,ORG
+##nes,I-LOC
+##ven,I-LOC
+INLAND,ORG
+Cevennes,ORG
+Mode,I-PER
+CE,I-MISC
+##ine,I-PER
+the years,DATE
+Italy,I-LOC
+Mediterranean,LOC
+##iv,I-LOC
+##iera,I-LOC
+Riviera,ORG
+Samoa - Stevenson,ORG
+Samoa,I-LOC
+Ulysses,I-PER
+Troy,GPE
+My,I-PER
+Pacific,I-LOC
+Southern,I-MISC
+Frankenstein,PERSON
+##AB,I-MISC
+the South Pacific,LOC
+half the day,DATE
+the Southern Cross,ORG
+Cross,I-MISC
+AR,I-MISC
+N,I-MISC
+CARLYLE,ORG
+##RL,I-PER
+CHAPTER VI - SOME EARLIER,ORG
+between eight and half-past nine,DATE
+Francisco,I-LOC
+San,I-LOC
+Col,I-PER
+Colvin,PERSON
+San Francisco,GPE
+##vin,I-PER
+Powell,I-PER
+Bush,PERSON
+608,CARDINAL
+Franklin,I-PER
+Benjamin,I-PER
+Benjamin Franklin,PERSON
+Street,I-LOC
+Sixth,I-LOC
+Pine,I-LOC
+Coffee,I-ORG
+-,I-ORG
+Market,I-LOC
+Pine Street Coffee-House,ORG
+High-Dutch,NORP
+High,I-MISC
+Dutch,I-MISC
+ten cents,MONEY
+Half an hour later,TIME
+Bush Street,FAC
+Washington,I-PER
+George Washington,PERSON
+three hours,TIME
+Der,I-PER
+Dere,PERSON
+##iro,I-LOC
+##cks,I-LOC
+the winter of,DATE
+United,I-LOC
+Emerson,ORG
+Lake,I-LOC
+1887-88,DATE
+Saranac Lake,LOC
+##nac,I-LOC
+States,I-LOC
+the United States,GPE
+Sara,I-LOC
+SCRIBNER,GPE
+##nda,I-LOC
+Canadian,NORP
+West,LOC
+York,I-LOC
+State,I-LOC
+New York State,GPE
+the LUDGATE HILL,ORG
+Jacko,PERSON
+Henry James,PERSON
+Jack,I-PER
+Henry,I-PER
+New York,GPE
+Universe,ORG
+a month or so in the summer,DATE
+700 pounds,QUANTITY
+BA,I-MISC
+ninety-two,CARDINAL
+KIDNAPPED,ORG
+Clement,I-PER
+Lord - Clementina,ORG
+##ina,I-PER
+##to,I-PER
+Mack,I-PER
+Squaretoes,GPE
+Mackellar,PERSON
+##ella,I-PER
+Square,I-PER
+Clementina,NORP
+10.15,CARDINAL
+Glass,PERSON
+the year 1890,DATE
+##pling,I-PER
+Marvell,ORG
+Marvel,I-PER
+##OM,I-ORG
+winters,DATE
+FOOTNOTE,ORG
+some four hundred acres,CARDINAL
+Apia,GPE
+1890,DATE
+##pia,I-LOC
+CASSELLS,ORG
+W,I-PER
+Tri,I-PER
+##gg,I-PER
+Honolulu,GPE
+##EL,I-ORG
+##LS,I-ORG
+W. H. Trigg,PERSON
+##SS,I-ORG
+Five,I-MISC
+Vailima,PERSON
+##ail,I-LOC
+##ima,I-LOC
+Samoan,NORP
+Waters,I-LOC
+Sidney Colvin,PERSON
+CHAPTER VII - THE VAILIMA,LAW
+Sidney,I-PER
+THE Vailima Letters,ORG
+the other day,DATE
+"June, 1892",DATE
+##mel,I-PER
+Simele,PRODUCT
+Si,I-PER
+Strong,I-PER
+"January, 1892",DATE
+Mrs Strong,PERSON
+A.M.,GPE
+DAVID BALFOUR,PERSON
+##ID,I-PER
+Mataafa,PERSON
+Mata,I-PER
+##LF,I-ORG
+##ES,I-ORG
+##af,I-PER
+TIMES,ORG
+morrow,DATE
+##VA,I-ORG
+Friday,DATE
+Vanity,GPE
+two years,DATE
+##ity,I-ORG
+some two and,CARDINAL
+##pan,I-MISC
+Counter,I-MISC
+Land of Counterpane,ORG
+the spring,DATE
+bush,PERSON
+some hours,TIME
+LA,I-PER
+the day,DATE
+twenty pounds,QUANTITY
+Samoans,NORP
+##ns,I-MISC
+Last night,TIME
+Lafaele,PERSON
+La,I-PER
+##fa,I-PER
+##ele,I-PER
+About an hour,TIME
+Nature,WORK_OF_ART
+day,DATE
+##sse,I-PER
+Go,I-PER
+Gosse,PERSON
+some fifty,CARDINAL
+these ill hours,TIME
+four,CARDINAL
+##AM,I-PER
+##ME,I-PER
+CHAPTER VIII - WORK OF,ORG
+323,CARDINAL
+##rud,I-PER
+Dr Trudeau,PERSON
+Saranac,GPE
+Mr Hyde,PERSON
+Hyde,I-PER
+HYDE,PERSON
+DR,I-ORG
+Trudeau,PERSON
+Annie Ide,PERSON
+several years,DATE
+Mr H. C. Ide,PERSON
+##olo,I-LOC
+Germany,GPE
+Land Commissioner,ORG
+##de,I-PER
+Up,I-LOC
+Annie,I-PER
+Upolo,GPE
+"Apia, Mr Ide",ORG
+Christmas Day,DATE
+Scots,I-MISC
+Ides,ORG
+the 13th day of November,DATE
+the State of Vermont,GPE
+British,NORP
+Johns,I-LOC
+Vermont,I-LOC
+"Upolo, Samoa",ORG
+Caledonia,I-LOC
+##MB,I-ORG
+##des,I-PER
+Saint,I-LOC
+the County of Caledonia,GPE
+United States of America,GPE
+H. C. Ide,PERSON
+the United States of America,GPE
+##MS,I-ORG
+the Scots Bar,ORG
+Louisa,PERSON
+Annie H.,PERSON
+Saint Johnsbury,GPE
+Annie H. Ide,PERSON
+County,I-LOC
+Day,I-MISC
+the year,DATE
+eighteen hundred and ninety-one,QUANTITY
+this 19th day of June,DATE
+LLOYD OSBOURNE,PERSON
+WITNESS,ORG
+OS,I-ORG
+HAROLD WATTS,PERSON
+December 1894,DATE
+##ler,I-PER
+##uch,I-PER
+Mr Quiller-Couch,ORG
+##uil,I-PER
+IV,I-ORG
+Q,I-PER
+CHAPTER IX - SOME CHARACTERISTICS,ORG
+our day,DATE
+PERSONALITY,ORG
+Hawthorne,GPE
+##GE,I-ORG
+Charles Whitehead,PERSON
+##NE,I-ORG
+Whitehead,I-PER
+Wendell,I-PER
+Poe,PERSON
+Wendell Holmes,PERSON
+Holmes,I-PER
+##rion,I-PER
+David Balfour,PERSON
+Catriona,ORG
+the High Street,FAC
+so many years,DATE
+Robert Louis Stevenson's,PERSON
+##RD,I-ORG
+a few years,DATE
+years,DATE
+weeks,DATE
+months,DATE
+many years,DATE
+Vaea,ORG
+1300 feet,QUANTITY
+Birds,NORP
+thro,PERSON
+A FEW weeks,DATE
+CHAPTER X - A SAMOAN MEMORIAL,ORG
+A Letter to Mr Stevenson's Friends,WORK_OF_ART
+Whitman,I-PER
+these many years,DATE
+Walt Whitman,PERSON
+Walt,I-PER
+the last hours,TIME
+Osbourne,PERSON
+the last day,DATE
+HERMISTON,GPE
+Burgundy,PERSON
+evening,TIME
+So,I-PER
+Sosimo,PERSON
+##mo,I-PER
+Anderson,I-PER
+Dr Funk,ORG
+Funk,I-PER
+Union,ORG
+Clarke,PERSON
+"the ""Road of the Loving Heart",LAW
+Road,I-MISC
+Loving,I-MISC
+Heart,I-MISC
+6,CARDINAL
+this last day,DATE
+The day,DATE
+the morning,TIME
+all night,TIME
+Catholic,I-MISC
+the dark hours,TIME
+Sun and Comforter,ORG
+morning,TIME
+Him,I-PER
+##zz,I-PER
+##ard,I-PER
+Bazzet M. Haggard,PERSON
+Good,I-MISC
+##et,I-PER
+"""The Road of Good Heart",WORK_OF_ART
+Administration,I-ORG
+'The Road of Gratitude',WORK_OF_ART
+##itude,I-MISC
+##rat,I-MISC
+memoriam,PERSON
+twenty,CARDINAL
+thirty,CARDINAL
+##lli,I-PER
+James H. Mulligan,PERSON
+November,DATE
+U.S. Consul,NORP
+Thanksgiving,I-MISC
+the 29th,DATE
+U,I-LOC
+Thanksgiving Day,EVENT
+##gan,I-PER
+Host,I-PER
+The Host,WORK_OF_ART
+the days,DATE
+Mackay,I-PER
+A. W. Mackay,PERSON
+I.,ORG
+the late afternoon,TIME
+Loia,PERSON
+##ia,I-PER
+REFRAIN - Groan,ORG
+II,CARDINAL
+Te,I-PER
+Victoria,I-PER
+Christmas,DATE
+##le,I-ORG
+Aolele,GPE
+##ole,I-PER
+Thou,GPE
+Glad,PERSON
+Home,ORG
+Germans,I-MISC
+TABLE TALK IN MEMORIES OF VAILIMA,ORG
+CHAPTER XI - MISS STUBBS',ORG
+St,I-PER
+Miss Stubbs,PERSON
+Miss,I-PER
+##ub,I-PER
+##bs,I-PER
+Mount Vaea,LOC
+Mount,I-LOC
+Tavau,PRODUCT
+Ta,I-LOC
+##i,I-MISC
+##va,I-MISC
+##u,I-MISC
+##au,I-MISC
+Say,GPE
+'Sing me a song of,WORK_OF_ART
+Death,I-PER
+Mother,I-PER
+the All-Mother,ORG
+Islands,GPE
+Austrian,NORP
+One lovely morning,TIME
+more than two hundred,CARDINAL
+Count,I-PER
+that day,DATE
+Next morning,TIME
+Kim,I-MISC
+##ino,I-MISC
+Kimino,ORG
+Mr Stevenson,PERSON
+Mrs Strong's,PERSON
+one day,DATE
+Scotsman,PERSON
+Island,LOC
+eight,CARDINAL
+eight-year-old,DATE
+CHAPTER XII - HIS GENIUS AND METHODS,ORG
+Time,ORG
+Moyes Black,PERSON
+Laura Stubbs,PERSON
+Graham Balfour,PERSON
+STEVENSON'S,WORK_OF_ART
+J. Hammerton,PERSON
+Bellyse Baildon,PERSON
+TABLE TALK,ORG
+Religion,ORG
+##yes,I-PER
+Graham,I-PER
+Raleigh,PERSON
+##ys,I-PER
+Laura,I-PER
+Burns,PERSON
+Rullion Green,ORG
+Moss,I-LOC
+##w,I-LOC
+Ma,I-LOC
+Green,I-LOC
+Tummel,ORG
+##ion,I-LOC
+Braemar - Braemar,ORG
+##town,I-LOC
+Halkerside and Allermuir,WORK_OF_ART
+Maw Moss,PERSON
+Castletown,GPE
+Geddie,PERSON
+THE HOME COUNTRY OF STEVENSON,ORG
+##edd,I-PER
+Charles Lowe,PERSON
+the College days,DATE
+Lowe,I-PER
+Grant,PERSON
+long,I-PER
+cum,I-PER
+PETTICOATS,GPE
+##SE,I-MISC
+##ang,I-PER
+Z,I-PER
+##will,I-PER
+I. Zangwill,PERSON
+Mr Zangwill,PERSON
+Scotsmen,GPE
+Ballantrae,PERSON
+Hamlet,I-PER
+Ball,I-PER
+##ant,I-PER
+ECCOVI,ORG
+##uin,I-PER
+##cey,I-PER
+EC,I-ORG
+Carlyle,PERSON
+De Quincey,PERSON
+##rick,I-PER
+Ludwig,I-PER
+the Ettrick Shepherd,ORG
+Ho,I-PER
+Shepherd,I-PER
+##tt,I-PER
+James Hogg,PERSON
+Ludwig Tieck,PERSON
+Elfin Land,PERSON
+##fin,I-LOC
+21,CARDINAL
+some fifteen months - as,DATE
+ALWAYS,ORG
+Zangwill,PERSON
+Much,I-PER
+Ariel,PERSON
+##uck,I-MISC
+"Puck, Much Antony",ORG
+Antony,I-PER
+Rising,I-MISC
+Scotch Calvinism,PERSON
+Bradford,I-PER
+John Bradford,PERSON
+##illo,I-PER
+Villon,ORG
+kirkyaird,PERSON
+Heaven,I-LOC
+OLD MORTALITY,GPE
+Edmond Gosse,PERSON
+1887,DATE
+##sbury,I-LOC
+Finsbury Circus,ORG
+Circus,I-LOC
+Edmond,I-PER
+21st August,DATE
+Fin,I-LOC
+##bba,I-MISC
+Sabbatarianism,NORP
+Sa,I-MISC
+between the hours of ten and twelve,TIME
+##tarian,I-MISC
+a year,DATE
+Chester,I-PER
+Chesterton,GPE
+VI,I-ORG
+only two,CARDINAL
+Election,I-MISC
+Calvinism,ORG
+##t,I-PER
+##water,I-PER
+At,I-PER
+##ll,I-MISC
+Je,I-MISC
+##ky,I-PER
+Pinero,PERSON
+##ro,I-PER
+##pen,I-PER
+Boccaccio,GPE
+Bo,I-PER
+##are,I-PER
+##cca,I-PER
+##ser,I-PER
+Ian MacLaren,PERSON
+Rabelais,ORG
+Ian,I-PER
+##cci,I-PER
+W. J. Dawson's,PERSON
+Dawson,I-PER
+CHAPTER XIII - PREACHER,ORG
+##ous,I-PER
+##op,I-PER
+##seau,I-PER
+Rousseau,PERSON
+Aesop,LOC
+##yan,I-PER
+##un,I-PER
+Bunyan,GPE
+Devil,I-PER
+Long,I-PER
+Long John Silver,PERSON
+TALE,ORG
+##lle,I-PER
+Smollett,PERSON
+Captain,I-PER
+Cap'n,ORG
+Author,I-MISC
+Merry,I-PER
+George Merry -,PERSON
+Hands,I-PER
+Red,I-PER
+##ru,I-PER
+##th,I-PER
+Tom,I-PER
+Flint,GPE
+##ew,I-PER
+Tom Redruth,PERSON
+##rva,I-PER
+##ntes,I-PER
+Shakespeare,PERSON
+Fielding,I-PER
+Cervantes,PERSON
+Mr Henley,PERSON
+MALL MAGAZINE,ORG
+Nathaniel Hawthorne,PERSON
+Nathaniel,I-PER
+Huish,NORP
+##sh,I-PER
+Hui,I-PER
+Rand,I-PER
+LILLIPUT,ORG
+W. B. Rands,PERSON
+##EI,I-MISC
+Treasure,I-MISC
+Search,I-MISC
+DRAMATICALLY,ORG
+DENOUEMENT,PERSON
+##bon,I-PER
+Charles Gibbon,PERSON
+##ib,I-PER
+Gibbon,PERSON
+Shelley,PERSON
+CHAPTER XIV - STEVENSON AS DRAMATIST IN,ORG
+Advocate,GPE
+Thomas M'Kie,PERSON
+Institution,I-ORG
+the London Birkbeck Institution,ORG
+Philosophical,I-ORG
+##irk,I-ORG
+##beck,I-ORG
+the Philosophical Institution,ORG
+kick R. L. Stevenson,PERSON
+Beau,PERSON
+Elizabethan,LOC
+##AT,I-MISC
+Mephistopheles,PERSON
+##uno,I-PER
+Gounod,PERSON
+##stop,I-PER
+Me,I-PER
+##d,I-PER
+Faust,GPE
+FAUST,GPE
+##hel,I-PER
+Marguerite,NORP
+Part,I-MISC
+Shaw,I-PER
+Bernard Shaw,PERSON
+Bernard,I-PER
+Ibsen,PERSON
+##en,I-PER
+Fairy,PERSON
+HANSEL,NORP
+"sleepless nights, days",DATE
+fifty,CARDINAL
+Raphael,I-MISC
+pre,I-MISC
+IMPRESSIONS,ORG
+Byron,I-PER
+Tho,ORG
+Stevenson- Henley,FAC
+CHAPTER XV - THEORY OF GOOD AND EVIL WE,ORG
+the fun any day of the week,DATE
+cock,I-MISC
+##BB,I-MISC
+EBB,ORG
+##ney,I-MISC
+1885,DATE
+Henry James:- ',PERSON
+monthly,DATE
+only half,CARDINAL
+Shakespearean,NORP
+Providence,GPE
+Dr Jekyll,PERSON
+Mr,I-PER
+Preston,I-PER
+##nge,I-PER
+##gra,I-PER
+TEMPEST,ORG
+the later years,DATE
+those later years,DATE
+NE,I-ORG
+NEW YORK,GPE
+DE,I-LOC
+September 1887,DATE
+Y,I-ORG
+##W,I-ORG
+##OD,I-ORG
+Lewis=Louis,PERSON
+Lewis,I-PER
+Browning,I-PER
+Robert Browning,PERSON
+Morning,TIME
+##worth,I-PER
+seven,CARDINAL
+Words,I-PER
+Wordsworth,NORP
+"the spring,",DATE
+##IP,I-ORG
+Paradise,LOC
+Our,I-MISC
+CHAPTER XVI - STEVENSON'S,PRODUCT
+early years,DATE
+the fatalistic Calvinism,ORG
+fed,ORG
+his tender years,DATE
+George MacDonald,PERSON
+MacDonald,I-PER
+Two,CARDINAL
+##bag,I-LOC
+Se,I-LOC
+Mara,I-MISC
+later years,DATE
+Marah,PERSON
+HAMMERTON,ORG
+22,CARDINAL
+23,CARDINAL
+Austin,I-PER
+Deacon,I-PER
+Deacon Brodie,PERSON
+Beau Austin,PERSON
+##rod,I-PER
+the Master of Ballantrae,ORG
+Matthew Arnold,PERSON
+Arnold,I-PER
+Matthew,I-PER
+##dress,I-MISC
+the Scottish Clergy,ORG
+Address,ORG
+Bible,I-MISC
+Bible-,PERSON
+A week,DATE
+Suffolk,I-LOC
+##ot,I-MISC
+Bull,I-PER
+8),CARDINAL
+John Bull,PERSON
+9,CARDINAL
+Calvinistic Scot,PERSON
+dreamer De Quincey,PERSON
+CHAPTER XVII - PROOFS,PERSON
+SEDULOUS,PERSON
+##vat,I-PER
+Simon Lovat,PERSON
+Simon,I-PER
+##US,I-ORG
+Barbara,I-PER
+PERSIFLAGE,ORG
+Barbara Grant,PERSON
+another ten years,DATE
+JANET,PERSON
+DENIS,PERSON
+Weir,I-MISC
+EDWIN DROOD,PERSON
+##era,I-PER
+##hack,I-PER
+Thackeray,ORG
+CHAPTER XVIII - EARLIER,PRODUCT
+##man,I-ORG
+HOUSE,ORG
+Longman,PERSON
+1896,DATE
+MORROW,FAC
+Content,ORG
+Hope,I-PER
+June 1875,DATE
+##irt,I-PER
+Virtue,PERSON
+##ue,I-PER
+some five days earlier,DATE
+Years ago,DATE
+an hour,TIME
+BAD WARE NICHT',ORG
+kirkyard,PERSON
+threescore years,DATE
+YESTERDAY,DATE
+ten,CARDINAL
+Hawthorn,I-MISC
+Hawthornian,NORP
+EGOTISM,DATE
+ELD,ORG
+##LD,I-ORG
+supreme,ORG
+Contemns,PERSON
+Mark,PERSON
+Anthony Trollope,PERSON
+##roll,I-PER
+##ope,I-PER
+Anthony,I-PER
+Mrs Oliphant,PERSON
+##lip,I-PER
+Mrs,I-PER
+##han,I-PER
+##une,I-LOC
+Thomas the Rymer of Ercildoune,PERSON
+##rc,I-LOC
+##il,I-LOC
+##do,I-LOC
+##yme,I-PER
+CONFRERES,PRODUCT
+TREASURE ISLAND,GPE
+a little over,CARDINAL
+CHAPTER XIX - EDMUND CLARENCE STEDMAN'S,ORG
+SHE STOOPS TO CONQUER,ORG
+##smith,I-PER
+Gold,I-PER
+Goldsmith,PERSON
+TWO,CARDINAL
+##RB,I-ORG
+Thomas Hardy,PERSON
+Hardy,I-PER
+forty years,DATE
+##ed,I-PER
+Edmund,I-PER
+Leaves,I-ORG
+the Uncut Leaves Society,ORG
+the beginning of 1895,DATE
+Antipodes,PRODUCT
+Mr Edmund Clarence Stedman,ORG
+Un,I-ORG
+years ago,DATE
+Clarence,I-PER
+Anti,I-LOC
+Society,I-ORG
+##po,I-LOC
+##cut,I-ORG
+fifteen years ago,DATE
+Virgil,I-PER
+'The Virgilian cry,WORK_OF_ART
+Sir,I-PER
+forty-four,CARDINAL
+##cy,I-MISC
+Fan,I-MISC
+Fancyland,GPE
+##land,I-MISC
+##lor,I-PER
+Once,I-MISC
+Prince Florizel,GPE
+##ize,I-PER
+Prince,I-PER
+Defoe,GPE
+##fo,I-PER
+##is,I-PER
+Franco,I-PER
+Francois Villon,PERSON
+twenty-ninth year,DATE
+a few months,DATE
+Harvard,I-ORG
+##min,I-MISC
+##rah,I-MISC
+Yale,I-ORG
+a New- Englander,PERSON
+Scandinavian,I-MISC
+Viking,I-MISC
+sixteenth-century,DATE
+kith,PERSON
+the South Seas,LOC
+Norseman,PERSON
+Seas,I-LOC
+Norse,I-MISC
+Voices,I-MISC
+Isle,I-LOC
+Pala,LOC
+Pa,I-LOC
+New-England,LOC
+Breaks,ORG
+Half,CARDINAL
+Edward Eggleston,PERSON
+Edward,I-PER
+##les,I-PER
+Egg,I-PER
+Dr Eggleston,PERSON
+##ass,I-PER
+##up,I-PER
+##bert,I-PER
+Guy,I-PER
+Flaubert,PERSON
+Guy de Maupassant,PERSON
+##lau,I-PER
+de,I-PER
+CHAPTER XX - EGOTISTIC ELEMENT,ORG
+Stephen,I-PER
+Leslie,I-PER
+Leslie Stephen,PERSON
+74,CARDINAL
+Roman,I-MISC
+Roman Catholic,NORP
+James Mohr,PERSON
+##hr,I-PER
+More,I-PER
+##ago,I-PER
+Sharp,I-PER
+Becky Sharp,PERSON
+Becky,I-PER
+these early days,DATE
+Shorter Catechism,PERSON
+PENCHANT,ORG
+ADDRESS,ORG
+Tolstoy,GPE
+##he,I-PER
+Clifford,I-PER
+##bah,I-PER
+Phoebe,I-PER
+##ync,I-PER
+##zi,I-PER
+SEVEN,CARDINAL
+Phoebe Pyncheon,PERSON
+Hepzibah Clifford,PERSON
+Zenobia,GPE
+##obia,I-PER
+Zen,I-PER
+##sie,I-PER
+Pan,I-PER
+Pansie,PERSON
+Lady Byron,PERSON
+Lady,I-PER
+a John Silver,PERSON
+Brontes,ORG
+the school of Scott,ORG
+PRINCE OTTO,PERSON
+ME,I-ORG
+30,CARDINAL
+Oh Heavens,WORK_OF_ART
+CHAPTER XXI - UNITY,PERSON
+Sterne,PERSON
+Swift,I-PER
+Stern,I-PER
+the Countess von Rosen,ORG
+Otto,I-PER
+Rosen,I-PER
+Seraphina,LOC
+##aph,I-PER
+Countess,I-PER
+Ser,I-PER
+von,I-PER
+Prince Otto,PERSON
+Princess,I-MISC
+Off,I-PER
+Offenbach,PERSON
+##enbach,I-PER
+CHAPTER XXII - PERSONAL CHEERFULNESS,ORG
+BALLANTRAE,ORG
+Will,I-PER
+MILL,ORG
+Gwynn,PERSON
+##wyn,I-PER
+the last years,DATE
+REVIEW,CARDINAL
+July 1895,DATE
+##ep,I-PER
+Pepys,LOC
+his best days,DATE
+W. E. Henley,PERSON
+MEMOIR,ORG
+CHAPTER XXIV - MR HENLEY'S,ORG
+Port,I-LOC
+the Louis of Samoa,ORG
+##risto,I-LOC
+Old,I-LOC
+the Old Bristo Port,ORG
+CUM,ORG
+Lamb,I-PER
+Charles Lamb,PERSON
+French,I-MISC
+PERSONNEL,ORG
+INDEED,ORG
+##ham,I-PER
+##wright,I-PER
+Dougal of Moat Farm,ORG
+Neil,I-PER
+Dee,I-PER
+Cream,I-PER
+Dr Dodd,PERSON
+Deeming,GPE
+Dodd,I-PER
+Neil Cream,ORG
+##al,I-PER
+Read,I-PER
+##ain,I-PER
+Doug,I-PER
+Farm,I-ORG
+Can,I-PER
+Canham Read,PERSON
+W. Henley's,PERSON
+VARIED LIFE,ORG
+ESMOND,ORG
+##AG,I-ORG
+REDGAUNTLET,GPE
+##lit,I-PER
+GREAT EXPECTATIONS,ORG
+DAVID COPPERFIELD,PERSON
+BRAGELONNE,ORG
+Hazlitt,PERSON
+Burlington,I-LOC
+Arcade,I-LOC
+10,CARDINAL
+R. L. Stevenson - R. L. Stevenson,PERSON
+CHARMEUR,ORG
+Forasmuch,ORG
+their day,DATE
+Henleyish,NORP
+##WS,I-ORG
+Just a month or,DATE
+Diogenes,ORG
+##ogen,I-PER
+Di,I-PER
+SCOTS,FAC
+the late years,DATE
+James Douglas,PERSON
+A Lover of R. L. Stevenson,WORK_OF_ART
+LITERARY HOAX,PERSON
+##ciation,I-MISC
+King's,ORG
+William Ernest Henley,PERSON
+##GI,I-ORG
+Secondly,ORDINAL
+Ernest,I-PER
+Thirdly,ORDINAL
+G. M.'s,PERSON
+R. L. S.,PERSON
+Merlin,I-PER
+IMPRESSIONS MR CHRISTIE MURRAY,ORG
+##EE,I-ORG
+CHAPTER XXV - MR CHRISTIE MURRAY'S,ORG
+Petit,I-PER
+Napoleon le Petit,ORG
+Napoleon,I-PER
+Hugo,I-PER
+le,I-PER
+Victor Hugo's,EVENT
+Niagara,PERSON
+##ni,I-PER
+##ff,I-ORG
+Peck,I-PER
+Man,I-MISC
+Lewis Balfour,PERSON
+Christian,I-MISC
+Robert Lewis - the Lewis,PERSON
+1862,DATE
+1883,DATE
+the two years,DATE
+Lewis Robert Stevenson,PERSON
+Academy,I-ORG
+the Edinburgh Academy,ORG
+earlier years,DATE
+ROBERT,ORG
+Lewis Robert,PERSON
+Edinburgh Academy,ORG
+1863,DATE
+Murray,I-PER
+Christie,I-PER
+Christie Murray,PERSON
+George Sala,PERSON
+Sal,I-PER
+Mr Henley's,GPE
+DEACON,ORG
+CHAPTER XXVI - HERO-VILLAINS,PERSON
+George Eliot,PERSON
+trans,I-MISC
+ELEVATED IMPRESSION,PERSON
+Herein,PERSON
+Richardson,I-PER
+##OW,I-ORG
+CLARISSA HARLOWE,ORG
+Clarissa Harlowe,ORG
+Love,I-PER
+Harlow,I-PER
+##lace,I-PER
+Lovelace,ORG
+##issa,I-PER
+##lar,I-PER
+a few minutes,TIME
+##tani,I-MISC
+Puritanism,NORP
+##nius,I-PER
+Polonius,PERSON
+Polo,I-PER
+EGOTISTICAL,ORG
+vivid dreamer,PERSON
+##ies,I-ORG
+Brown,I-PER
+a single night,TIME
+one night,TIME
+Brownies,ORG
+##J,I-ORG
+AS IN THE MURDER OF COLONEL GERALDINE'S,ORG
+US,GPE
+ONE,CARDINAL
+##vir,I-PER
+Elvira,ORG
+PROVIDENCE,GPE
+George Moore's,PERSON
+24th,ORDINAL
+April 1897,DATE
+CHAPTER XXVII - MR G. MOORE,ORG
+Moore,I-PER
+W. B. Yeats,PERSON
+Ye,I-PER
+THE SECRET ROSE,WORK_OF_ART
+##ats,I-PER
+HAMLET,ORG
+Yeats,PERSON
+##it,I-PER
+Mr Moore,PERSON
+Leland,GPE
+Hans Breitmann,PERSON
+##mann,I-PER
+Homer,I-PER
+Le,I-ORG
+Hans,I-PER
+##rde,I-PER
+Lea,I-PER
+Cordelia,GPE
+Lear,ORG
+##lia,I-PER
+Watson,I-PER
+Mar,I-PER
+Marriott Watson,PERSON
+##riot,I-PER
+11,CARDINAL
+E. A. Poe,PERSON
+Aristotle,ORG
+EBB-TIDE,ORG
+Romance attracted Stevenson,WORK_OF_ART
+VAILIMA,ORG
+178,CARDINAL
+184,CARDINAL
+49,CARDINAL
+Attwater,PERSON
+South Sea,LOC
+Occasional Papers,WORK_OF_ART
+Barrie,GPE
+THRUMS,ORG
+Sea,I-LOC
+Barr,I-PER
+Vera,I-PER
+Average,I-MISC
+The Average Reader,WORK_OF_ART
+##x,I-PER
+Reader,I-MISC
+daub,PERSON
+April,DATE
+us,GPE
+Rose,I-PER
+##bery,I-PER
+Rosebery,PRODUCT
+half-blindness,QUANTITY
+December 1901,DATE
+Andrew,I-PER
+Lang,I-PER
+Andrew Lang,PERSON
+Literary Quarrels,WORK_OF_ART
+##yne,I-PER
+John Ballantyne,PERSON
+Sydney,GPE
+Bayard,GPE
+Bay,I-ORG
+Tennyson,PERSON
+Ten,I-PER
+##ny,I-PER
+##oc,I-PER
+Sophocles,PERSON
+##ph,I-PER
+##DR,I-MISC
+##unt,I-PER
+Lady Bountiful,PERSON
+##iful,I-PER
+the Palace of Art,FAC
+Art,I-LOC
+Palace,I-LOC
+CHAPTER XXVIII - UNEXPECTED COMBINATIONS,PERSON
+Fate,ORG
+##SC,I-ORG
+##FT,I-ORG
+##WA,I-ORG
+WILHELM MEISTER,PERSON
+##wes,I-PER
+G. H. Lewes,PERSON
+George MacDonald's,PERSON
+Tieck,PERSON
+Mill,I-ORG
+Markheim,PERSON
+##heim,I-PER
+ANNABELLA,ORG
+Annabella,ORG
+M. Schwob,PERSON
+##b,I-PER
+##bella,I-PER
+Anna,I-PER
+Giovanni,ORG
+de Stevenson,PERSON
+AND,I-MISC
+Ford,I-PER
+John Ford's,PERSON
+##wo,I-PER
+GIOVANNI,GPE
+luisante de Long John,PERSON
+##in,I-PER
+##set,I-ORG
+ve,I-MISC
+Notez,PERSON
+Jim,I-PER
+Jim Hawkins,PERSON
+Hawkins,I-PER
+Shorter Catechist,WORK_OF_ART
+twenty-five,CARDINAL
+Saturday and Monday,DATE
+CHAPTER XXIX - LOVE,PERSON
+Dantes,GPE
+##uce,I-ORG
+Chaucers,PRODUCT
+##rs,I-MISC
+Spensers,ORG
+Atlantic,I-LOC
+"the ""Sentimental Journeys",PRODUCT
+Chaucer,PERSON
+nature-spring,DATE
+Bread,PERSON
+green days,DATE
+##fant,I-MISC
+In,I-MISC
+##eno,I-MISC
+Vincent,I-PER
+Ph,I-MISC
+Vincent Crummles,PERSON
+##m,I-PER
+##men,I-MISC
+Mrs Crummles,PERSON
+Dan Chaucer,PERSON
+Dan,I-PER
+Trigg,PERSON
+FUN,ORG
+CHAPTER XXX - LORD,PRODUCT
+Lordship,ORG
+38 BERKELEY SQUARE,MONEY
+##KE,I-LOC
+17th DECEMBER 1896,DATE
+W.,PERSON
+ALEXANDER H.,PERSON
+JAPP,ORG
+##CE,I-LOC
+19TH DECEMBER 1896,DATE
+S.W.,ORG
+TEN,CARDINAL
+Au,I-PER
+##MT,I-ORG
+##ai,I-PER
+THE BRITISH WEEKLY,ORG
+the VICOMTE DE BRAGELONNE,ORG
+Influenced Me,ORG
+##gne,I-PER
+Mont,I-PER
+Marcus,I-PER
+##rel,I-PER
+Marcus Aurelius's,ORG
+Martial,ORG
+##ius,I-PER
+"Montaigne, Goethe",ORG
+GRATIS,PERSON
+LITERATIM ET,PRODUCT
+MANET,ORG
+##eak,I-PER
+a dozen,CARDINAL
+the House of Lords,ORG
+Lords,I-ORG
+Appeal,I-ORG
+Justice,I-PER
+the Lords of Appeal,LAW
+VERBATIM,ORG
+##BA,I-ORG
+GROUNDS,ORG
+##ates,I-PER
+Coates,PERSON
+Lord,I-PER
+LIFE AND SPEECHES,WORK_OF_ART
+the London County Council,ORG
+##san,I-PER
+W. Besant's,PERSON
+Council,I-ORG
+Be,I-PER
+Glasgow,I-LOC
+ex-Moderator of,PRODUCT
+the Church of Scotland,ORG
+CHAPTER XXXI - MR,ORG
+10th March 1900,DATE
+Edmund Gosse,PERSON
+MY FIRST BOOK,ORG
+EDINBURGH EDITION,ORG
+James Henderson,PERSON
+more than twenty years,DATE
+COMPLETELY,ORG
+BILLY,ORG
+26th,ORDINAL
+Robert Leighton's,PERSON
+Leigh,I-PER
+the 21st September 1881,DATE
+August 1881,DATE
+##bridge,I-LOC
+We,I-LOC
+MS,GPE
+Weybridge,FAC
+the 1st October 1881,DATE
+"OCTOBER 1, 1881",DATE
+565,CARDINAL
+No,I-MISC
+PR,I-MISC
+The Old Sea Dog,LOC
+Dog,I-MISC
+##bow,I-LOC
+the Admiral Benbow,FAC
+Admiral,I-LOC
+Ben,I-LOC
+Disappears,PRODUCT
+566,CARDINAL
+"OCTOBER 8, 1881",DATE
+Spot,I-MISC
+The Black Spot,ORG
+567,CARDINAL
+"OCTOBER 15, 1881",DATE
+Chart,I-MISC
+The Sea Chart,ORG
+Last,I-MISC
+Blind,I-MISC
+Papers,I-MISC
+568,CARDINAL
+"OCTOBER 22, 1881",DATE
+Bristol,ORG
+Cook,I-MISC
+Ill.,GPE
+##der,I-ORG
+Il,I-ORG
+Arms,I-ORG
+the middle of September,DATE
+COPY,ORG
+5th September,FAC
+six,CARDINAL
+about three,CARDINAL
+SUBSTANTIALLY,GPE
+CHAPTER XXXII - STEVENSON,ORG
+Count Nerli,PERSON
+##li,I-PER
+J. S. Sarjent,PERSON
+A.R.A.,GPE
+##je,I-PER
+##nt,I-PER
+Richmond,I-PER
+W. B. Richmond,PERSON
+1886,DATE
+St Gauden's,PERSON
+##aud,I-ORG
+Sidney Colvin's,PERSON
+Nerli,NORP
+1892,DATE
+Mr Nerli,ORG
+a hundred,CARDINAL
+Zealand,I-LOC
+this year,DATE
+New Zealand,GPE
+##uf,I-ORG
+Board,I-ORG
+the Scottish National Portrait Gallery,ORG
+National,I-ORG
+the National Portrait Gallery -,ORG
+the Trustees of the Board of Manufactures,ORG
+##ures,I-ORG
+##act,I-ORG
+Trustees,I-ORG
+Portrait,I-ORG
+Gallery,I-ORG
+last year,DATE
+J. M. Gray,PERSON
+the Scottish National Portrait Gallery - a,ORG
+Gray,I-PER
+Literature,I-MISC
+the National Collection,ORG
+Collection,I-ORG
+the National Collection of Portraits,ORG
+CHAPTER XXXIII - LAPSES,ORG
+106,CARDINAL
+AM,I-MISC
+Robin,I-PER
+Some,I-MISC
+Cock Robin,PERSON
+NORTH AMERICAN,NORP
+Novel,I-MISC
+Japp,ORG
+NO,I-MISC
+JACK,ORG
+1882,DATE
+##BI,I-ORG
+##GR,I-ORG
+##IVE,I-ORG
+GULLIVER,PERSON
+Hebrides,LOC
+34,CARDINAL
+##bri,I-LOC
+##ugh,I-PER
+WATER-COLOUR PAINTER OF SOME,ORG
+Sam Bough,PERSON
+REPUTE,ORG
+Academic,I-MISC
+Edinburgh - Pettie,ORG
+Pet,I-PER
+M'Whirter,PERSON
+Chalmers,PRODUCT
+##hir,I-PER
+##tie,I-PER
+##ag,I-PER
+Peter Graham,PERSON
+##ter,I-PER
+##gart,I-PER
+John Burr,PERSON
+MacTaggart,ORG
+Burr,I-PER
+Bough,GPE
+WEE,ORG
+old days,DATE
+R.S.A.,ORG
+Jack Nisbett,PERSON
+##bet,I-PER
+Ni,I-PER
+Crockett,PERSON
+The grey Galloway lands,WORK_OF_ART
+Galloway,I-LOC
+##rock,I-PER
+##ett,I-PER
+home,I-LOC
+KER- LEE,PERSON
+PEE-WEET,ORG
+KER-LEE,ORG
+April 1892,DATE
+##be,I-PER
+Henry Holbeach,WORK_OF_ART
+Matthew Browne,PERSON
+##ach,I-PER
+Browne,I-PER
+28,CARDINAL
+LIFE OF STEVENSON,WORK_OF_ART
+##CU,I-ORG
+##ons,I-PER
+Arthur,I-PER
+some years ago,DATE
+Sophia,PERSON
+Jeff,I-PER
+Mr Symons,ORG
+##eries,I-PER
+Jefferies,GPE
+Addington Symonds,ORG
+Profound,PRODUCT
+Daniel Ricketson,PERSON
+##ets,I-PER
+Sophia Thoreau,GPE
+Daniel,I-PER
+Rick,I-PER
+those last few months,DATE
+243,CARDINAL
+246,CARDINAL
+three-fourths,CARDINAL
+A HUMAN SOUL,WORK_OF_ART
+MALADROIT,ORG
+CHAPTER XXXIV - LETTERS,PERSON
+S.E.,GPE
+37,CARDINAL
+1ST MARCH 1895,DATE
+November last,DATE
+THE WEEKLY SUN,ORG
+this week,DATE
+Mountain,I-LOC
+Vaea Mountain,ORG
+Stevensoniana,PERSON
+F. J.,PERSON
+COX,ORG
+the languorous hours,TIME
+Ocean,ORG
+Peace,I-PER
+Yea,PERSON
+June,DATE
+the quickening day,DATE
+F. J. COX,PERSON
+11TH November 1904,DATE
+##and,I-LOC
+##ryl,I-LOC
+Came,GPE
+Delight,PERSON
+Land of Burns,WORK_OF_ART
+"a ""Land of Stevenson",LAW
+"a ""Land of Scott",LAW
+A. C. R. APPENDIX,PERSON
+Country,I-MISC
+afternoon,TIME
+the Water of Leith,WORK_OF_ART
+Town,I-LOC
+some five miles,QUANTITY
+Swanston Farm,ORG
+the summer days,DATE
+three miles,QUANTITY
+Dr Balfour,PERSON
+Pentlands,ORG
+where year after year,DATE
+Water,I-LOC
+##tz,I-PER
+##head,I-LOC
+"the ""Bore Stane",LAW
+Borough,I-LOC
+Stan,I-LOC
+##dden,I-LOC
+Lothian Road,PERSON
+James FitzJames,PERSON
+Lot,I-LOC
+##ame,I-PER
+##lo,I-LOC
+Flodden,GPE
+##hian,I-LOC
+Fi,I-PER
+Boroughmuirhead,PERSON
+half an hour,TIME
+Three-quarters,CARDINAL
+Fairmilehead,PERSON
+the Braid Hills,GPE
+Fair,I-LOC
+##mile,I-LOC
+##rai,I-LOC
+Bridge,I-LOC
+Bow Bridge,FAC
+last-century,DATE
+Bow,I-LOC
+Burn,I-LOC
+##lane,I-LOC
+Comiston,PERSON
+the Braid Burn,ORG
+##mist,I-LOC
+Cockmylane,WORK_OF_ART
+Ghost,I-PER
+Try,I-LOC
+Woods,I-LOC
+Hunters,I-MISC
+##horn,I-LOC
+##eg,I-LOC
+the Dreghorn Woods,LOC
+Kay,I-MISC
+Buckstane,GPE
+Bucks,I-LOC
+Stone,I-LOC
+"the ""Stone of Victory",LAW
+Victory,I-LOC
+Caerketton - probably Caer-etin,ORG
+Picts,NORP
+et,I-LOC
+##cts,I-MISC
+winter,DATE
+Lothian,NORP
+summer,DATE
+Sabbath,PERSON
+mornings,TIME
+three-mile,QUANTITY
+Firth,PERSON
+##rth,I-LOC
+Todd,I-PER
+John Todd,PERSON
+Inchkeith,PERSON
+Lomonds,ORG
+Inc,I-LOC
+Arthur Seat,PERSON
+##ke,I-LOC
+##mond,I-PER
+Kips,PERSON
+Arctic,I-MISC
+##ps,I-ORG
+##ald,I-LOC
+Scald,PERSON
+Moorfoots,PRODUCT
+##foot,I-LOC
+##thy,I-LOC
+Moor,I-LOC
+##sk,I-LOC
+the Pentlands - Caernethy,ORG
+##rne,I-LOC
+##cars,I-LOC
+THE WESTLAND WHIGS,ORG
+Loch,I-LOC
+a couple miles,QUANTITY
+Glen,I-LOC
+Glencarse Loch,PERSON
+Tom Dalyell,PERSON
+##ell,I-PER
+Currie,I-LOC
+Daly,I-PER
+Knowe,PERSON
+Nick,I-LOC
+##rer,I-LOC
+Shea,I-LOC
+"the ""Windy Door Nick",LAW
+Know,I-LOC
+Door,I-LOC
+Wind,I-LOC
+Presbyterian,NORP
+Dell,I-LOC
+Colinton Dell,GPE
+Pentland,GPE
+the Catholic University of Washington,ORG
+WASHINGTON,GPE
+##dar,I-PER
+FIELD,GPE
+##od,I-PER
+Charles Warren Stoddard,PERSON
+Warren,I-PER
+pp,GPE
+Tales,I-MISC
+7,CARDINAL
+GO,I-MISC
+38,CARDINAL
+MEMORIES,GPE
+95,CARDINAL
+"the ""John Bull",PRODUCT
+MASSON'S CONDENSATION,PERSON
+George Moore,PERSON
+"October, 1903",DATE

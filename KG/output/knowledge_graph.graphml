@@ -1,0 +1,7551 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Louis">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Robert Louis Stevenson">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Robert">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="A">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="J">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ap">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="one">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="A. H. Japp">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##p">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="two">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Stevenson">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="H">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##MI">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="First">
+      <data key="d0">ORDINAL</data>
+    </node>
+    <node id="MEN">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##L">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Preface">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##IA">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Da">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Davos">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##vos">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##face">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="28- 29">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Pre">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="three">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="eleven">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="19">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="ALEXANDER H. JAPP">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="AL">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##DE">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##EX">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##AN">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##LA">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="IS">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##ND">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##N">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="HEREDITY ILLUSTRATED V. TRAVELS VI">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ED">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##ER">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##IL">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="THE">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="VA">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##IM">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##A">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="LATER YEARS IX">
+      <data key="d0">EVENT</data>
+    </node>
+    <node id="##ST">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##IC">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##AR">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##AC">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##RI">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="CH">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##TE">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="R. L. STEVENSON XI">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="SA">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##NS">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="XI">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="L">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##VE">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##E">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="ST">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##ON">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##MO">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="R">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="MI">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##U">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="MYSTIC">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="M">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="PREACHER">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##B">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##Y">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="G">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##R">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##IS">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="E">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##IT">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="XXII">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="UNITY">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="UN">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##O">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="D">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="EDINBURGH">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##DI">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##EN">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="HENLEY'S">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="XXV">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="MR">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##LE">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##IE">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="X">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="O">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##OR">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="MA">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="MARRIOTT WATSON">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##X">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="WA">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="UNEXPECTED COMBINATIONS XXIX">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##GA">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##BO">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##OS">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##BE">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="GOSSE">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="P">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="ERRORS">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##M">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="CR">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Thor">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="England">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##eau">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##H">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##IN">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id=".">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Thoreau">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##Z">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="CO">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="R. L. Stevenson">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Northern Scotland">
+      <data key="d0">LOC</data>
+    </node>
+    <node id="Scotland">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Surrey">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Northern">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="North">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="North to">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="South">
+      <data key="d0">LOC</data>
+    </node>
+    <node id="American">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="America">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="English">
+      <data key="d0">LANGUAGE</data>
+    </node>
+    <node id="CORNHILL">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Hammerton">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ton">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Hammer">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="California">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##NA">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="One">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="half">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="his years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Yorkshire">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="1">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="##ran">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##well">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="B">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Branwell Bronte">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##te">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ron">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="SP">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##TA">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##EC">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##TO">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Humour">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Her">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="City">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##iot">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Edinburgh">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="17">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Row">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="SUNDAY">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="BR">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##EM">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="AUGUST">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="CASTLETON OF BRAEMAR">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="TH">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="1881">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Sunday">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="first">
+      <data key="d0">ORDINAL</data>
+    </node>
+    <node id="Braemar">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##rae">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##mar">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Second">
+      <data key="d0">ORDINAL</data>
+    </node>
+    <node id="Thousands">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="WALE">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Tu">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##ls">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##mme">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##ide">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##UI">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="ROBERT LOUIS STEVENSON">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="London">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Wednesday">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Tuesday">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="the end of September">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Re">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##rand">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##tes">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Inverness">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##que">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##mb">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Spanish">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##r">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="the Ancient Mariner">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Marine">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Ancient">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Scotch">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="one winter">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="S">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##s">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##latz">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##RA">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##D">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Silver">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="John">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##dington">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Davos Platz">
+      <data key="d0">FAC</data>
+    </node>
+    <node id="several winters">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##ond">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="John Addington Symonds">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Ad">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ym">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ado">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Samuel">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Mrs Stevenson">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Samuel Lloyd Osbourne">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Lloyd">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="half intentional">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="##bourne">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="twelve">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Lloyd's">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="s">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="'">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Silverado">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="T">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##UR">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##AS">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##RE">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##bel">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Ra">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##ais">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##ian">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Rabelaisian">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="Lloyd Osbourne">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="THE BLACK CANYON">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="##C">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="CA">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##K">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Samuel L. Osbourne">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="this day">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="C">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="SC">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##P">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##UE">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="the BLUE SCALPER">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Company">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="and">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="S. L. Osbourne">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##rte">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Cortez">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Co">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="daily">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="PEAK">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##z">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="eagles">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Heroes">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Ju">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##mbo">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="I">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="ELEPHANT">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Trumpeting Jumbo">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Sacred">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Joys">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##NT">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##HA">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="The Sacred Ibis">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="##bis">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Sam">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="FIRST">
+      <data key="d0">ORDINAL</data>
+    </node>
+    <node id="second">
+      <data key="d0">ORDINAL</data>
+    </node>
+    <node id="a new quarter">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="SE">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##OK">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="John Silver">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="CHAPTER II - TREASURE ISLAND">
+      <data key="d0">LAW</data>
+    </node>
+    <node id="PA">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="YOU">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##OL">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Henderson">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##NG">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="F">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="IDLER">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="ID">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="MAC">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##G">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Dr Japp">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="August 1894">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="sixteen">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="The">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="End">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="EDWARD DAVEN">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##TH">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##ING">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="RA">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##AV">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="V">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="K">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##TT">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="THE KING'S">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="twenty-nine">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="fifteen">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="thirty-one">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="##TY">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="CHRISTIANITY">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="##NI">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##S">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Several days">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Scottish">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Church">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="the Scottish Church">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Castleton">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Castle">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="September 1881">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="two days">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="nine">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Dinnat">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Din">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##nat">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Bar">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="the afternoon">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="the Scottish Bar">
+      <data key="d0">FAC</data>
+    </node>
+    <node id="Bob Bain">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Bai">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Bob">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##n">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="five">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="of">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="the Established Church of Scotland">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="his day">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Established">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="nights">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="shrillish">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="Thomas">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="2">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Thomas Stevenson">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="House">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="the">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Parliament">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="the Parliament House">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Court">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Chief">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Hall">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Griff Stevenson">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##riff">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Van">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="der">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Fanny">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Fanny Van">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="the Hall of the Edinburgh Parliament House">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="Stevensons">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="Dante">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="3">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="##F">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##VI">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Sc">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##rip">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##ture">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="IN">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="MEMORIAM">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="ultra">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Calvin">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="SWITZERLAND">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="CHALET">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="##WI">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##SO">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##T">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="DAVOS">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##ET">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##AL">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##RT">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="May">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Samuel Osbourne">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="APRIL 1st, 1882">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Knox">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="John Knox">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Cornhill">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="December ninety">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##rn">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##hill">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Magazine">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="40,000">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Symonds">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Alexander">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Alexander Pope">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Pope">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="these days">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="1893">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="the ATALANTA Magazine">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="AT">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="ATALANTA">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Louis Stevenson">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="R. L. Stevenson's">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Douglas">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Russ">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Fettes Douglas">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Russel">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##el">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ttes">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Fe">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="4">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Fleeming Jenkin">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##lee">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Jen">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ming">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##kin">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##istic">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##our">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Colin">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Ba">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Colinton">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Dr">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="eighty">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="##lf">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##har">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="the Parish Church">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##OT">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Joseph">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##tip">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##SM">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Balfour">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Mr Russell">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="SCOTSMAN">
+      <data key="d0">FAC</data>
+    </node>
+    <node id="Russell">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Potiphar">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="some years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Parish">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Po">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ION">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##TR">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="WEIR OF HERMISTON">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="R. L. STEVENSON">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="13th November 1850">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Robert Stevenson">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="CHAPTER III - THE CHILD FATHER">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="the very year">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##um">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Alison Cunningham">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Alison">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Cunningham">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##y">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Cumy">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="AUTHOR">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="SK">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##VO">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="18TH JULY 1888">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Skerryvore">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##vor">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##ry">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Bournemouth">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##ker">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##e">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="AN">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="all the years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="a single evening">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="AU">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="&quot;">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Baildon">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ldon">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Goethe">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="32">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="##lman">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Kelman">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Ke">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##haft">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##bury">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##es">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Christianity">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Paris">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="1878">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="God">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Divine">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Covenant">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="the Pentland Hills">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Hills">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Covenanters">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##ers">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##tland">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Pen">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="John Knox's">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ie">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Black">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="College">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Professor">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Blackie">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Greek">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="more than a dozen">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="##UM">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##IO">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="HUMANIORES">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Charles Pomander">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Peter">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##zle">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Charles">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Tea">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ours">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##er">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##mand">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Peter Teazle">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ir">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Halkerside">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##mu">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Allermuir">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ae">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##kers">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="All">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Caerketton">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##etto">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="LONGMAN'S">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##rk">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Hal">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##GM">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Spring">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##h">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Fife">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Forth Wheels">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="Fort">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Thrills">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="continental">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="CHAPTER IV - HEREDITY">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="George Eliot's">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Eliot">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="George">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##apon">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="season">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="japonica">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Rock">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Bell Rock">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Bell">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="annual">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Walter Scott">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Walter">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="the Bell Rock">
+      <data key="d0">FAC</data>
+    </node>
+    <node id="##IG">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Scott">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Bound">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="1850">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="night">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="'15">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Henley">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##ist">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Calvinist">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="'45">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##ith">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="About 1650">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="##ba">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##l">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Chalmers of Balbaithan">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="James">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="J. F. George">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##TI">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##hall">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Keithhall">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Session">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##lmer">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="James Balfour">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##an">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Keith">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Bridget">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Cha">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="the Principal Clerks">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="the Court of Session">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Balbaithan">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="1696">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Magistrate of Edinburgh">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Merchant">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="1699">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="##ien">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="the Darien Company">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Dar">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Logie">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Mary">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##phi">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##rig">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Edinburgh University">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Gilbert Elliot">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="CATRIONA">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="El">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##one">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##gie">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Aberdeen">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Mint">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##shire">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Sheriff of Aberdeen">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="1705 - 1795">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##o">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Cecilia">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##ch">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Gilbert">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Garioch">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="fifth">
+      <data key="d0">ORDINAL</data>
+    </node>
+    <node id="Lo">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##nst">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="University">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Pi">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="John Elphinstone">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Elliot">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Minto">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##bat">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Land">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="the Debatable Land">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="De">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##able">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Elphinstone">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Glack">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##ones">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Nicholas Elphinstone">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="1499">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Logie Elphinstones">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##la">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##ck">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Nicholas">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Bart">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Forbes">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Bonn">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="William Elphinstone">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Wood">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="William">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Bonnyton">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Margaret Forbes">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Elizabeth Wood">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="1701">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="James of Glack">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="James Elphinstone">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Margaret">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Elizabeth">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##yton">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Elgin">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Bishop">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Badenoch">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##ull">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Kildare">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##aw">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="France">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Cathedral">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##och">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Baden">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="the Victor of Harlaw">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Ha">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##rl">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Wolf">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Victor">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="John O'Coull">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##wall">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="David">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="days">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Ed">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Tiger">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Charlie">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Dundee">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="his days">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Beard">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ight">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ssel">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Mu">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Kirk">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="David Lindsay">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ite">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Jean Lindsay">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Master">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Lindsay">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Earl">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Jacobite">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="Tusitala">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Mo">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##rd">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Jacob">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="the later Gordons of Gight">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Earl Beardie">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##a">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Jean">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Gordon">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Crawford">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##zel">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##si">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##tal">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##son">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Fergus">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Robert Fergusson">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##on">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##uh">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="the Tolquhon Forbeses">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="To">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##q">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##rum">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Tolquhon">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Kildrummy">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="Elizabeth Forbes">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##my">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Fergusson">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##ld">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Ki">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Highland">
+      <data key="d0">LOC</data>
+    </node>
+    <node id="Celtic">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="5">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="##g">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Rob">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Rob Roy">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##re">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Roy">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Macgregor">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="Mac">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##gor">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Balfours">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Archer">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="William Archer">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="FRIENDS">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##CL">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="THE DAILY CHRONICLE">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##RO">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Francis">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Thompson">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Francis Thompson">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="hypochondria">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="frailty">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="##lean">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Carly">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Carlylean">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="twenty-four">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="##ston">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Sit">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Swanston">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Swan">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Mrs Sitwell">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="all day">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Nine years later">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##IF">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##rley">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Waverley">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Wave">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="every day">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="another year">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="thirty-three">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="##ech">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##ism">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Short">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Cat">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="kindest">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Testament">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="the New Testament">
+      <data key="d0">EVENT</data>
+    </node>
+    <node id="New">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Bohemian">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##tan">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##uri">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Hedonist">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="He">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Puritan">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="the Haymarket Theatre">
+      <data key="d0">FAC</data>
+    </node>
+    <node id="Mr Tree">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##market">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##EA">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##bo">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##hm">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Beerbohm Tree">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Tree">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Hay">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="only one">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Theatre">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Beer">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Stevensonian">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="Simpson">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Bob' Stevenson">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="The R. L. Stevenson">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="Velvet Coat'">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="Velvet">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##at">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Dickens">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="OF">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="his callow days">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="CHAPTER V - TRAVELS">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="College Magazines">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="MACMILLAN'S">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##LL">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="CEVENNES">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##st">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Ce">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Modestine">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##nes">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##ven">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="INLAND">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Cevennes">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Mode">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="CE">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##ine">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="the years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Italy">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Mediterranean">
+      <data key="d0">LOC</data>
+    </node>
+    <node id="##iv">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##iera">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Riviera">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Samoa - Stevenson">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Samoa">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Ulysses">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Troy">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="My">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Pacific">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Southern">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Frankenstein">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##AB">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="the South Pacific">
+      <data key="d0">LOC</data>
+    </node>
+    <node id="half the day">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="the Southern Cross">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Cross">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="AR">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="N">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="CARLYLE">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##RL">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="CHAPTER VI - SOME EARLIER">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="between eight and half-past nine">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Francisco">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="San">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Col">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Colvin">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="San Francisco">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##vin">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Powell">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Bush">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="608">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Franklin">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Benjamin">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Benjamin Franklin">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Street">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Sixth">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Pine">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Coffee">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="-">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Market">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Pine Street Coffee-House">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="High-Dutch">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="High">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Dutch">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="ten cents">
+      <data key="d0">MONEY</data>
+    </node>
+    <node id="Half an hour later">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="Bush Street">
+      <data key="d0">FAC</data>
+    </node>
+    <node id="Washington">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="George Washington">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="three hours">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="Der">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Dere">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##iro">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##cks">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="the winter of">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="United">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Emerson">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Lake">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="1887-88">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Saranac Lake">
+      <data key="d0">LOC</data>
+    </node>
+    <node id="##nac">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="States">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="the United States">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Sara">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="SCRIBNER">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##nda">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Canadian">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="West">
+      <data key="d0">LOC</data>
+    </node>
+    <node id="York">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="State">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="New York State">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="the LUDGATE HILL">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Jacko">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Henry James">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Jack">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Henry">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="New York">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Universe">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="a month or so in the summer">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="700 pounds">
+      <data key="d0">QUANTITY</data>
+    </node>
+    <node id="BA">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="ninety-two">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="KIDNAPPED">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Clement">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Lord - Clementina">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##ina">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##to">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Mack">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Squaretoes">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Mackellar">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ella">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Square">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Clementina">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="10.15">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Glass">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="the year 1890">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##pling">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Marvell">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Marvel">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##OM">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="winters">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="FOOTNOTE">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="some four hundred acres">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Apia">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="1890">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##pia">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="CASSELLS">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="W">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Tri">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##gg">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Honolulu">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##EL">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##LS">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="W. H. Trigg">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##SS">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Five">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Vailima">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ail">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##ima">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Samoan">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="Waters">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Sidney Colvin">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="CHAPTER VII - THE VAILIMA">
+      <data key="d0">LAW</data>
+    </node>
+    <node id="Sidney">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="THE Vailima Letters">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="the other day">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="June, 1892">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##mel">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Simele">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="Si">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Strong">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="January, 1892">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Mrs Strong">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="A.M.">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="DAVID BALFOUR">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ID">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Mataafa">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Mata">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##LF">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##ES">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##af">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="TIMES">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="morrow">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##VA">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Friday">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Vanity">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="two years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##ity">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="some two and">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="##pan">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Counter">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Land of Counterpane">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="the spring">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="bush">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="some hours">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="LA">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="the day">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="twenty pounds">
+      <data key="d0">QUANTITY</data>
+    </node>
+    <node id="Samoans">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="##ns">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Last night">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="Lafaele">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="La">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##fa">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ele">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="About an hour">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="Nature">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="day">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##sse">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Go">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Gosse">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="some fifty">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="these ill hours">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="four">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="##AM">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ME">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="CHAPTER VIII - WORK OF">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="323">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="##rud">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Dr Trudeau">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Saranac">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Mr Hyde">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Hyde">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="HYDE">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="DR">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Trudeau">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Annie Ide">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="several years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Mr H. C. Ide">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##olo">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Germany">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Land Commissioner">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##de">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Up">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Annie">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Upolo">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Apia, Mr Ide">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Christmas Day">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Scots">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Ides">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="the 13th day of November">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="the State of Vermont">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="British">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="Johns">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Vermont">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Upolo, Samoa">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Caledonia">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##MB">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##des">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Saint">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="the County of Caledonia">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="United States of America">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="H. C. Ide">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="the United States of America">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##MS">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="the Scots Bar">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Louisa">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Annie H.">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Saint Johnsbury">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Annie H. Ide">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="County">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Day">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="the year">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="eighteen hundred and ninety-one">
+      <data key="d0">QUANTITY</data>
+    </node>
+    <node id="this 19th day of June">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="LLOYD OSBOURNE">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="WITNESS">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="OS">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="HAROLD WATTS">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="December 1894">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##ler">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##uch">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Mr Quiller-Couch">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##uil">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="IV">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Q">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="CHAPTER IX - SOME CHARACTERISTICS">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="our day">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="PERSONALITY">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Hawthorne">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##GE">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Charles Whitehead">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##NE">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Whitehead">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Wendell">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Poe">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Wendell Holmes">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Holmes">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##rion">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="David Balfour">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Catriona">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="the High Street">
+      <data key="d0">FAC</data>
+    </node>
+    <node id="so many years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Robert Louis Stevenson's">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##RD">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="a few years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="weeks">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="months">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="many years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Vaea">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="1300 feet">
+      <data key="d0">QUANTITY</data>
+    </node>
+    <node id="Birds">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="thro">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="A FEW weeks">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="CHAPTER X - A SAMOAN MEMORIAL">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="A Letter to Mr Stevenson's Friends">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="Whitman">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="these many years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Walt Whitman">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Walt">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="the last hours">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="Osbourne">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="the last day">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="HERMISTON">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Burgundy">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="evening">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="So">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Sosimo">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##mo">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Anderson">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Dr Funk">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Funk">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Union">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Clarke">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="the &quot;Road of the Loving Heart">
+      <data key="d0">LAW</data>
+    </node>
+    <node id="Road">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Loving">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Heart">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="6">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="this last day">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="The day">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="the morning">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="all night">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="Catholic">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="the dark hours">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="Sun and Comforter">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="morning">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="Him">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##zz">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ard">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Bazzet M. Haggard">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Good">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##et">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="&quot;The Road of Good Heart">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="Administration">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="'The Road of Gratitude'">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="##itude">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##rat">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="memoriam">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="twenty">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="thirty">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="##lli">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="James H. Mulligan">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="November">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="U.S. Consul">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="Thanksgiving">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="the 29th">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="U">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Thanksgiving Day">
+      <data key="d0">EVENT</data>
+    </node>
+    <node id="##gan">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Host">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="The Host">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="the days">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Mackay">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="A. W. Mackay">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="I.">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="the late afternoon">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="Loia">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ia">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="REFRAIN - Groan">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="II">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Te">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Victoria">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Christmas">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##le">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Aolele">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##ole">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Thou">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Glad">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Home">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Germans">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="TABLE TALK IN MEMORIES OF VAILIMA">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="CHAPTER XI - MISS STUBBS'">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="St">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Miss Stubbs">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Miss">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ub">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##bs">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Mount Vaea">
+      <data key="d0">LOC</data>
+    </node>
+    <node id="Mount">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Tavau">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="Ta">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##i">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##va">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##u">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##au">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Say">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="'Sing me a song of">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="Death">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Mother">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="the All-Mother">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Islands">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Austrian">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="One lovely morning">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="more than two hundred">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Count">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="that day">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Next morning">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="Kim">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##ino">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Kimino">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Mr Stevenson">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Mrs Strong's">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="one day">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Scotsman">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Island">
+      <data key="d0">LOC</data>
+    </node>
+    <node id="eight">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="eight-year-old">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="CHAPTER XII - HIS GENIUS AND METHODS">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Time">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Moyes Black">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Laura Stubbs">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Graham Balfour">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="STEVENSON'S">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="J. Hammerton">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Bellyse Baildon">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="TABLE TALK">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Religion">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##yes">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Graham">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Raleigh">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ys">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Laura">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Burns">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Rullion Green">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Moss">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##w">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Ma">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Green">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Tummel">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##ion">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Braemar - Braemar">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##town">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Halkerside and Allermuir">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="Maw Moss">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Castletown">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Geddie">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="THE HOME COUNTRY OF STEVENSON">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##edd">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Charles Lowe">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="the College days">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Lowe">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Grant">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="long">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="cum">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="PETTICOATS">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##SE">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##ang">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Z">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##will">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="I. Zangwill">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Mr Zangwill">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Scotsmen">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Ballantrae">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Hamlet">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Ball">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ant">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="ECCOVI">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##uin">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##cey">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="EC">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Carlyle">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="De Quincey">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##rick">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Ludwig">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="the Ettrick Shepherd">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Ho">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Shepherd">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##tt">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="James Hogg">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Ludwig Tieck">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Elfin Land">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##fin">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="21">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="some fifteen months - as">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="ALWAYS">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Zangwill">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Much">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Ariel">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##uck">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Puck, Much Antony">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Antony">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Rising">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Scotch Calvinism">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Bradford">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="John Bradford">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##illo">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Villon">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="kirkyaird">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Heaven">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="OLD MORTALITY">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Edmond Gosse">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="1887">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##sbury">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Finsbury Circus">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Circus">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Edmond">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="21st August">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Fin">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##bba">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Sabbatarianism">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="Sa">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="between the hours of ten and twelve">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="##tarian">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="a year">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Chester">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Chesterton">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="VI">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="only two">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Election">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Calvinism">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##t">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##water">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="At">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ll">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Je">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##ky">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Pinero">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ro">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##pen">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Boccaccio">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Bo">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##are">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##cca">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ser">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Ian MacLaren">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Rabelais">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Ian">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##cci">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="W. J. Dawson's">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Dawson">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="CHAPTER XIII - PREACHER">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##ous">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##op">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##seau">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Rousseau">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Aesop">
+      <data key="d0">LOC</data>
+    </node>
+    <node id="##yan">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##un">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Bunyan">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Devil">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Long">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Long John Silver">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="TALE">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##lle">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Smollett">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Captain">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Cap'n">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Author">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Merry">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="George Merry -">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Hands">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Red">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ru">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##th">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Tom">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Flint">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##ew">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Tom Redruth">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##rva">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ntes">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Shakespeare">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Fielding">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Cervantes">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Mr Henley">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="MALL MAGAZINE">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Nathaniel Hawthorne">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Nathaniel">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Huish">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="##sh">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Hui">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Rand">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="LILLIPUT">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="W. B. Rands">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##EI">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Treasure">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Search">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="DRAMATICALLY">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="DENOUEMENT">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##bon">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Charles Gibbon">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ib">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Gibbon">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Shelley">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="CHAPTER XIV - STEVENSON AS DRAMATIST IN">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Advocate">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Thomas M'Kie">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Institution">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="the London Birkbeck Institution">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Philosophical">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##irk">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##beck">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="the Philosophical Institution">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="kick R. L. Stevenson">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Beau">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Elizabethan">
+      <data key="d0">LOC</data>
+    </node>
+    <node id="##AT">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Mephistopheles">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##uno">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Gounod">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##stop">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Me">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##d">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Faust">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="FAUST">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##hel">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Marguerite">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="Part">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Shaw">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Bernard Shaw">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Bernard">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Ibsen">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##en">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Fairy">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="HANSEL">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="sleepless nights, days">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="fifty">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Raphael">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="pre">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="IMPRESSIONS">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Byron">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Tho">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Stevenson- Henley">
+      <data key="d0">FAC</data>
+    </node>
+    <node id="CHAPTER XV - THEORY OF GOOD AND EVIL WE">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="the fun any day of the week">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="cock">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##BB">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="EBB">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##ney">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="1885">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Henry James:- '">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="monthly">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="only half">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Shakespearean">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="Providence">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Dr Jekyll">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Mr">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Preston">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##nge">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##gra">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="TEMPEST">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="the later years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="those later years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="NE">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="NEW YORK">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="DE">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="September 1887">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Y">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##W">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##OD">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Lewis=Louis">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Lewis">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Browning">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Robert Browning">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Morning">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="##worth">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="seven">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Words">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Wordsworth">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="the spring,">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##IP">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Paradise">
+      <data key="d0">LOC</data>
+    </node>
+    <node id="Our">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="CHAPTER XVI - STEVENSON'S">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="early years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="the fatalistic Calvinism">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="fed">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="his tender years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="George MacDonald">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="MacDonald">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Two">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="##bag">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Se">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Mara">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="later years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Marah">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="HAMMERTON">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="22">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="23">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Austin">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Deacon">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Deacon Brodie">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Beau Austin">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##rod">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="the Master of Ballantrae">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Matthew Arnold">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Arnold">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Matthew">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##dress">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="the Scottish Clergy">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Address">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Bible">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Bible-">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="A week">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Suffolk">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##ot">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Bull">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="8)">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="John Bull">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="9">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Calvinistic Scot">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="dreamer De Quincey">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="CHAPTER XVII - PROOFS">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="SEDULOUS">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##vat">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Simon Lovat">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Simon">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##US">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Barbara">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="PERSIFLAGE">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Barbara Grant">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="another ten years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="JANET">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="DENIS">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Weir">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="EDWIN DROOD">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##era">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##hack">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Thackeray">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="CHAPTER XVIII - EARLIER">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="##man">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="HOUSE">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Longman">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="1896">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="MORROW">
+      <data key="d0">FAC</data>
+    </node>
+    <node id="Content">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Hope">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="June 1875">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##irt">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Virtue">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ue">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="some five days earlier">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Years ago">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="an hour">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="BAD WARE NICHT'">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="kirkyard">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="threescore years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="YESTERDAY">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="ten">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Hawthorn">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Hawthornian">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="EGOTISM">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="ELD">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##LD">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="supreme">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Contemns">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Mark">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Anthony Trollope">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##roll">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ope">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Anthony">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Mrs Oliphant">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##lip">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Mrs">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##han">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##une">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Thomas the Rymer of Ercildoune">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##rc">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##il">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##do">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##yme">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="CONFRERES">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="TREASURE ISLAND">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="a little over">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="CHAPTER XIX - EDMUND CLARENCE STEDMAN'S">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="SHE STOOPS TO CONQUER">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##smith">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Gold">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Goldsmith">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="TWO">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="##RB">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Thomas Hardy">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Hardy">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="forty years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##ed">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Edmund">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Leaves">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="the Uncut Leaves Society">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="the beginning of 1895">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Antipodes">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="Mr Edmund Clarence Stedman">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Un">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="years ago">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Clarence">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Anti">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Society">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##po">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##cut">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="fifteen years ago">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Virgil">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="'The Virgilian cry">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="Sir">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="forty-four">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="##cy">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Fan">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Fancyland">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##land">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##lor">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Once">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Prince Florizel">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##ize">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Prince">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Defoe">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##fo">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##is">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Franco">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Francois Villon">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="twenty-ninth year">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="a few months">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Harvard">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##min">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##rah">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Yale">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="a New- Englander">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Scandinavian">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Viking">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="sixteenth-century">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="kith">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="the South Seas">
+      <data key="d0">LOC</data>
+    </node>
+    <node id="Norseman">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Seas">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Norse">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Voices">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Isle">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Pala">
+      <data key="d0">LOC</data>
+    </node>
+    <node id="Pa">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="New-England">
+      <data key="d0">LOC</data>
+    </node>
+    <node id="Breaks">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Half">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Edward Eggleston">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Edward">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##les">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Egg">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Dr Eggleston">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ass">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##up">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##bert">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Guy">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Flaubert">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Guy de Maupassant">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##lau">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="de">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="CHAPTER XX - EGOTISTIC ELEMENT">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Stephen">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Leslie">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Leslie Stephen">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="74">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Roman">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Roman Catholic">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="James Mohr">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##hr">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="More">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ago">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Sharp">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Becky Sharp">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Becky">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="these early days">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Shorter Catechism">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="PENCHANT">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="ADDRESS">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Tolstoy">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##he">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Clifford">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##bah">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Phoebe">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ync">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##zi">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="SEVEN">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Phoebe Pyncheon">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Hepzibah Clifford">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Zenobia">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##obia">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Zen">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##sie">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Pan">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Pansie">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Lady Byron">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Lady">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="a John Silver">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Brontes">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="the school of Scott">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="PRINCE OTTO">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="ME">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="30">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Oh Heavens">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="CHAPTER XXI - UNITY">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Sterne">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Swift">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Stern">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="the Countess von Rosen">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Otto">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Rosen">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Seraphina">
+      <data key="d0">LOC</data>
+    </node>
+    <node id="##aph">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Countess">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Ser">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="von">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Prince Otto">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Princess">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Off">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Offenbach">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##enbach">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="CHAPTER XXII - PERSONAL CHEERFULNESS">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="BALLANTRAE">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Will">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="MILL">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Gwynn">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##wyn">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="the last years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="REVIEW">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="July 1895">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##ep">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Pepys">
+      <data key="d0">LOC</data>
+    </node>
+    <node id="his best days">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="W. E. Henley">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="MEMOIR">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="CHAPTER XXIV - MR HENLEY'S">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Port">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="the Louis of Samoa">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##risto">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Old">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="the Old Bristo Port">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="CUM">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Lamb">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Charles Lamb">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="French">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="PERSONNEL">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="INDEED">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##ham">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##wright">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Dougal of Moat Farm">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Neil">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Dee">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Cream">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Dr Dodd">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Deeming">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Dodd">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Neil Cream">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##al">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Read">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ain">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Doug">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Farm">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Can">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Canham Read">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="W. Henley's">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="VARIED LIFE">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="ESMOND">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##AG">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="REDGAUNTLET">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##lit">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="GREAT EXPECTATIONS">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="DAVID COPPERFIELD">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="BRAGELONNE">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Hazlitt">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Burlington">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Arcade">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="10">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="R. L. Stevenson - R. L. Stevenson">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="CHARMEUR">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Forasmuch">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="their day">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Henleyish">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="##WS">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Just a month or">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Diogenes">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##ogen">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Di">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="SCOTS">
+      <data key="d0">FAC</data>
+    </node>
+    <node id="the late years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="James Douglas">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="A Lover of R. L. Stevenson">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="LITERARY HOAX">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ciation">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="King's">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="William Ernest Henley">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##GI">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Secondly">
+      <data key="d0">ORDINAL</data>
+    </node>
+    <node id="Ernest">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Thirdly">
+      <data key="d0">ORDINAL</data>
+    </node>
+    <node id="G. M.'s">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="R. L. S.">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Merlin">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="IMPRESSIONS MR CHRISTIE MURRAY">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##EE">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="CHAPTER XXV - MR CHRISTIE MURRAY'S">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Petit">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Napoleon le Petit">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Napoleon">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Hugo">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="le">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Victor Hugo's">
+      <data key="d0">EVENT</data>
+    </node>
+    <node id="Niagara">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ni">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ff">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Peck">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Man">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Lewis Balfour">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Christian">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Robert Lewis - the Lewis">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="1862">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="1883">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="the two years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Lewis Robert Stevenson">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Academy">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="the Edinburgh Academy">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="earlier years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="ROBERT">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Lewis Robert">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Edinburgh Academy">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="1863">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Murray">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Christie">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Christie Murray">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="George Sala">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Sal">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Mr Henley's">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="DEACON">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="CHAPTER XXVI - HERO-VILLAINS">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="George Eliot">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="trans">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="ELEVATED IMPRESSION">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Herein">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Richardson">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##OW">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="CLARISSA HARLOWE">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Clarissa Harlowe">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Love">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Harlow">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##lace">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Lovelace">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##issa">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##lar">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="a few minutes">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="##tani">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Puritanism">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="##nius">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Polonius">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Polo">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="EGOTISTICAL">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="vivid dreamer">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ies">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Brown">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="a single night">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="one night">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="Brownies">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##J">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="AS IN THE MURDER OF COLONEL GERALDINE'S">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="US">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="ONE">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="##vir">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Elvira">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="PROVIDENCE">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="George Moore's">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="24th">
+      <data key="d0">ORDINAL</data>
+    </node>
+    <node id="April 1897">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="CHAPTER XXVII - MR G. MOORE">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Moore">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="W. B. Yeats">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Ye">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="THE SECRET ROSE">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="##ats">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="HAMLET">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Yeats">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##it">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Mr Moore">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Leland">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Hans Breitmann">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##mann">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Homer">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Le">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Hans">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##rde">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Lea">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Cordelia">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Lear">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##lia">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Watson">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Mar">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Marriott Watson">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##riot">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="11">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="E. A. Poe">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Aristotle">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="EBB-TIDE">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Romance attracted Stevenson">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="VAILIMA">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="178">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="184">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="49">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Attwater">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="South Sea">
+      <data key="d0">LOC</data>
+    </node>
+    <node id="Occasional Papers">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="Barrie">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="THRUMS">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Sea">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Barr">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Vera">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Average">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="The Average Reader">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="##x">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Reader">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="daub">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="April">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="us">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Rose">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##bery">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Rosebery">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="half-blindness">
+      <data key="d0">QUANTITY</data>
+    </node>
+    <node id="December 1901">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Andrew">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Lang">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Andrew Lang">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Literary Quarrels">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="##yne">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="John Ballantyne">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Sydney">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Bayard">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Bay">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Tennyson">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Ten">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ny">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##oc">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Sophocles">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ph">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##DR">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##unt">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Lady Bountiful">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##iful">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="the Palace of Art">
+      <data key="d0">FAC</data>
+    </node>
+    <node id="Art">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Palace">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="CHAPTER XXVIII - UNEXPECTED COMBINATIONS">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Fate">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##SC">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##FT">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##WA">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="WILHELM MEISTER">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##wes">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="G. H. Lewes">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="George MacDonald's">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Tieck">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Mill">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Markheim">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##heim">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="ANNABELLA">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Annabella">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="M. Schwob">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##b">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##bella">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Anna">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Giovanni">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="de Stevenson">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="AND">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Ford">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="John Ford's">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##wo">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="GIOVANNI">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="luisante de Long John">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##in">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##set">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="ve">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Notez">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Jim">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Jim Hawkins">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Hawkins">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Shorter Catechist">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="twenty-five">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Saturday and Monday">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="CHAPTER XXIX - LOVE">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Dantes">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##uce">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Chaucers">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="##rs">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Spensers">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Atlantic">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="the &quot;Sentimental Journeys">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="Chaucer">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="nature-spring">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Bread">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="green days">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##fant">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="In">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##eno">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Vincent">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Ph">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Vincent Crummles">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##m">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##men">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Mrs Crummles">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Dan Chaucer">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Dan">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Trigg">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="FUN">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="CHAPTER XXX - LORD">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="Lordship">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="38 BERKELEY SQUARE">
+      <data key="d0">MONEY</data>
+    </node>
+    <node id="##KE">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="17th DECEMBER 1896">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="W.">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="ALEXANDER H.">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="JAPP">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##CE">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="19TH DECEMBER 1896">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="S.W.">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="TEN">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Au">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##MT">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##ai">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="THE BRITISH WEEKLY">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="the VICOMTE DE BRAGELONNE">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Influenced Me">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##gne">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Mont">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Marcus">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##rel">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Marcus Aurelius's">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Martial">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##ius">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Montaigne, Goethe">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="GRATIS">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="LITERATIM ET">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="MANET">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##eak">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="a dozen">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="the House of Lords">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Lords">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Appeal">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Justice">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="the Lords of Appeal">
+      <data key="d0">LAW</data>
+    </node>
+    <node id="VERBATIM">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##BA">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="GROUNDS">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##ates">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Coates">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Lord">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="LIFE AND SPEECHES">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="the London County Council">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##san">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="W. Besant's">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Council">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Be">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Glasgow">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="ex-Moderator of">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="the Church of Scotland">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="CHAPTER XXXI - MR">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="10th March 1900">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Edmund Gosse">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="MY FIRST BOOK">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="EDINBURGH EDITION">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="James Henderson">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="more than twenty years">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="COMPLETELY">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="BILLY">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="26th">
+      <data key="d0">ORDINAL</data>
+    </node>
+    <node id="Robert Leighton's">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Leigh">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="the 21st September 1881">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="August 1881">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##bridge">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="We">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="MS">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Weybridge">
+      <data key="d0">FAC</data>
+    </node>
+    <node id="the 1st October 1881">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="OCTOBER 1, 1881">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="565">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="No">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="PR">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="The Old Sea Dog">
+      <data key="d0">LOC</data>
+    </node>
+    <node id="Dog">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##bow">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="the Admiral Benbow">
+      <data key="d0">FAC</data>
+    </node>
+    <node id="Admiral">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Ben">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Disappears">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="566">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="OCTOBER 8, 1881">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Spot">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="The Black Spot">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="567">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="OCTOBER 15, 1881">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Chart">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="The Sea Chart">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Last">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Blind">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Papers">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="568">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="OCTOBER 22, 1881">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Bristol">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Cook">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Ill.">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##der">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Il">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Arms">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="the middle of September">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="COPY">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="5th September">
+      <data key="d0">FAC</data>
+    </node>
+    <node id="six">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="about three">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="SUBSTANTIALLY">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="CHAPTER XXXII - STEVENSON">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Count Nerli">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##li">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="J. S. Sarjent">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="A.R.A.">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##je">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##nt">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Richmond">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="W. B. Richmond">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="1886">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="St Gauden's">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##aud">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Sidney Colvin's">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Nerli">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="1892">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Mr Nerli">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="a hundred">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Zealand">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="this year">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="New Zealand">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##uf">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Board">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="the Scottish National Portrait Gallery">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="National">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="the National Portrait Gallery -">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="the Trustees of the Board of Manufactures">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##ures">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##act">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Trustees">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Portrait">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="Gallery">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="last year">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="J. M. Gray">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="the Scottish National Portrait Gallery - a">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Gray">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Literature">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="the National Collection">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Collection">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="the National Collection of Portraits">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="CHAPTER XXXIII - LAPSES">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="106">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="AM">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Robin">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Some">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Cock Robin">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="NORTH AMERICAN">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="Novel">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Japp">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="NO">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="JACK">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="1882">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##BI">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##GR">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##IVE">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="GULLIVER">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Hebrides">
+      <data key="d0">LOC</data>
+    </node>
+    <node id="34">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="##bri">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##ugh">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="WATER-COLOUR PAINTER OF SOME">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Sam Bough">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="REPUTE">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Academic">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Edinburgh - Pettie">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Pet">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="M'Whirter">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Chalmers">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="##hir">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##tie">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ag">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Peter Graham">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ter">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##gart">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="John Burr">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="MacTaggart">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Burr">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Bough">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="WEE">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="old days">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="R.S.A.">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Jack Nisbett">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##bet">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Ni">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Crockett">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="The grey Galloway lands">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="Galloway">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##rock">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##ett">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="home">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="KER- LEE">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="PEE-WEET">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="KER-LEE">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="April 1892">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##be">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Henry Holbeach">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="Matthew Browne">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ach">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Browne">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="28">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="LIFE OF STEVENSON">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="##CU">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##ons">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Arthur">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="some years ago">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Sophia">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Jeff">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Mr Symons">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##eries">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Jefferies">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Addington Symonds">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Profound">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="Daniel Ricketson">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ets">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Sophia Thoreau">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Daniel">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Rick">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="those last few months">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="243">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="246">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="three-fourths">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="A HUMAN SOUL">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="MALADROIT">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="CHAPTER XXXIV - LETTERS">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="S.E.">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="37">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="1ST MARCH 1895">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="November last">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="THE WEEKLY SUN">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="this week">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Mountain">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Vaea Mountain">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Stevensoniana">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="F. J.">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="COX">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="the languorous hours">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="Ocean">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Peace">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Yea">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="June">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="the quickening day">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="F. J. COX">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="11TH November 1904">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="##and">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##ryl">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Came">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Delight">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Land of Burns">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="a &quot;Land of Stevenson">
+      <data key="d0">LAW</data>
+    </node>
+    <node id="a &quot;Land of Scott">
+      <data key="d0">LAW</data>
+    </node>
+    <node id="A. C. R. APPENDIX">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Country">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="afternoon">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="the Water of Leith">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="Town">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="some five miles">
+      <data key="d0">QUANTITY</data>
+    </node>
+    <node id="Swanston Farm">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="the summer days">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="three miles">
+      <data key="d0">QUANTITY</data>
+    </node>
+    <node id="Dr Balfour">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Pentlands">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="where year after year">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Water">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##tz">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##head">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="the &quot;Bore Stane">
+      <data key="d0">LAW</data>
+    </node>
+    <node id="Borough">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Stan">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##dden">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Lothian Road">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="James FitzJames">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Lot">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##ame">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="##lo">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Flodden">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##hian">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Fi">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Boroughmuirhead">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="half an hour">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="Three-quarters">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="Fairmilehead">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="the Braid Hills">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Fair">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##mile">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##rai">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Bridge">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Bow Bridge">
+      <data key="d0">FAC</data>
+    </node>
+    <node id="last-century">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Bow">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Burn">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##lane">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Comiston">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="the Braid Burn">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##mist">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Cockmylane">
+      <data key="d0">WORK_OF_ART</data>
+    </node>
+    <node id="Ghost">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Try">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Woods">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Hunters">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##horn">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##eg">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="the Dreghorn Woods">
+      <data key="d0">LOC</data>
+    </node>
+    <node id="Kay">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="Buckstane">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Bucks">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Stone">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="the &quot;Stone of Victory">
+      <data key="d0">LAW</data>
+    </node>
+    <node id="Victory">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Caerketton - probably Caer-etin">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Picts">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="et">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##cts">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="winter">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Lothian">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="summer">
+      <data key="d0">DATE</data>
+    </node>
+    <node id="Sabbath">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="mornings">
+      <data key="d0">TIME</data>
+    </node>
+    <node id="three-mile">
+      <data key="d0">QUANTITY</data>
+    </node>
+    <node id="Firth">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##rth">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Todd">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="John Todd">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Inchkeith">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Lomonds">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Inc">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Arthur Seat">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ke">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##mond">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Kips">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Arctic">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="##ps">
+      <data key="d0">I-ORG</data>
+    </node>
+    <node id="##ald">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Scald">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Moorfoots">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="##foot">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##thy">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Moor">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##sk">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="the Pentlands - Caernethy">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="##rne">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##cars">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="THE WESTLAND WHIGS">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="Loch">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="a couple miles">
+      <data key="d0">QUANTITY</data>
+    </node>
+    <node id="Glen">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Glencarse Loch">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Tom Dalyell">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="##ell">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Currie">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Daly">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Knowe">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Nick">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="##rer">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Shea">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="the &quot;Windy Door Nick">
+      <data key="d0">LAW</data>
+    </node>
+    <node id="Know">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Door">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Wind">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Presbyterian">
+      <data key="d0">NORP</data>
+    </node>
+    <node id="Dell">
+      <data key="d0">I-LOC</data>
+    </node>
+    <node id="Colinton Dell">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Pentland">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="the Catholic University of Washington">
+      <data key="d0">ORG</data>
+    </node>
+    <node id="WASHINGTON">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##dar">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="FIELD">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="##od">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="Charles Warren Stoddard">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="Warren">
+      <data key="d0">I-PER</data>
+    </node>
+    <node id="pp">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="Tales">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="7">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="GO">
+      <data key="d0">I-MISC</data>
+    </node>
+    <node id="38">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="MEMORIES">
+      <data key="d0">GPE</data>
+    </node>
+    <node id="95">
+      <data key="d0">CARDINAL</data>
+    </node>
+    <node id="the &quot;John Bull">
+      <data key="d0">PRODUCT</data>
+    </node>
+    <node id="MASSON'S CONDENSATION">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="George Moore">
+      <data key="d0">PERSON</data>
+    </node>
+    <node id="October, 1903">
+      <data key="d0">DATE</data>
+    </node>
+    <edge source="Louis" target="Edinburgh">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Louis" target="Thomas Stevenson">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Stevenson" target="Osbourne">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Stevenson" target="Pinero">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Stevenson" target="Burns">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Stevenson" target="London">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Stevenson" target="Henderson">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Stevenson" target="Jefferies">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Stevenson" target="England">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Stevenson" target="Thoreau">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Stevenson" target="R. L. Stevenson">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Stevenson" target="America">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Stevenson" target="Edinburgh">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Stevenson" target="Braemar">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Stevenson" target="Scotland">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Stevenson" target="IDLER">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Stevenson" target="Stevensons">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Stevenson" target="R. L. Stevenson's">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Stevenson" target="Bournemouth">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Stevenson" target="Baildon">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Stevenson" target="Kelman">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Stevenson" target="Caerketton">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Stevenson" target="Scott">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Stevenson" target="Henley">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Stevenson" target="Celtic">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Stevenson" target="Simpson">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Stevenson" target="Dickens">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Stevenson" target="New York">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Stevenson" target="Samoa">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Stevenson" target="Vailima">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Stevenson" target="Gosse">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Stevenson" target="Annie">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Stevenson" target="DR">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Stevenson" target="Clarke">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Stevenson" target="Rullion Green">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Stevenson" target="Mr Zangwill">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Stevenson" target="Carlyle">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Stevenson" target="De Quincey">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Stevenson" target="Chesterton">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Stevenson" target="Mr Henley">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Stevenson" target="W. E. Henley">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Stevenson" target="Lewis">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Stevenson" target="Moore">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Stevenson" target="Yeats">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Stevenson" target="Marriott Watson">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Stevenson" target="Rosebery">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Stevenson" target="Coates">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Stevenson" target="Mr Symons">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="ST" target="WEIR OF HERMISTON">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="England" target="America">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="England" target="Germany">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="England" target="Calvinism">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Thoreau" target="Rousseau">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Thoreau" target="R. L. Stevenson">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="R. L. Stevenson" target="Edinburgh">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="R. L. Stevenson" target="Braemar">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="R. L. Stevenson" target="WEIR OF HERMISTON">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="R. L. Stevenson" target="Henley">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="R. L. Stevenson" target="Gosse">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="R. L. Stevenson" target="Mr Henley">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="R. L. Stevenson" target="Calvinistic Scot">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="R. L. Stevenson" target="W. E. Henley">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="R. L. Stevenson" target="Rosebery">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="America" target="Bournemouth">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Edinburgh" target="Braemar">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Edinburgh" target="Thomas Stevenson">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Edinburgh" target="Stevensons">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Edinburgh" target="Simpson">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Edinburgh" target="Pinero">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Edinburgh" target="the Old Bristo Port">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Braemar" target="Henderson">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Braemar" target="IDLER">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="London" target="France">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="London" target="Rosebery">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Wednesday" target="Tuesday">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Silver" target="Smollett">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Silver" target="Master">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Davos Platz" target="THE BLACK CANYON">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="I" target="Mr">
+      <data key="d1">met</data>
+    </edge>
+    <edge source="IDLER" target="MY FIRST BOOK">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Stevensons" target="Balfours">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Symonds" target="Pope">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Colinton" target="Swanston">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Colinton" target="Moss">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Colinton" target="Caerketton">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Goethe" target="Martial">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Halkerside" target="Allermuir">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Halkerside" target="Caerketton">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Halkerside" target="Knowe">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Allermuir" target="Caerketton">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Caerketton" target="Swanston">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Scott" target="Shakespeare">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Scott" target="Dickens">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Henley" target="Zangwill">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Henley" target="Simpson">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Henley" target="W. E. Henley">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Balbaithan" target="Merchant">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Logie" target="Margaret Forbes">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Logie" target="James Elphinstone">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="CATRIONA" target="KIDNAPPED">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Land" target="Land">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Elphinstone" target="Wood">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Margaret Forbes" target="James Elphinstone">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Tusitala" target="Mataafa">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Bohemian" target="Hedonist">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Dickens" target="Thackeray">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="CEVENNES" target="INLAND">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Samoa" target="Upolo">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Samoa" target="FOOTNOTE">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Samoa" target="Honolulu">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Samoa" target="Miss Stubbs">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="States" target="Germany">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="States" target="State">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Henry" target="Clementina">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Henry" target="Mackellar">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Clementina" target="Clementina">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Strong" target="Osbourne">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="TIMES" target="Rosebery">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr Hyde" target="Dr Jekyll">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Hyde" target="Markheim">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Hawthorne" target="Poe">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Whitehead" target="Poe">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Catriona" target="Grant">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Graham" target="M'Whirter">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Graham" target="MacTaggart">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Burns" target="Rosebery">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Moss" target="Green">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Green" target="Tummel">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Boccaccio" target="Rabelais">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Rousseau" target="Aesop">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Bunyan" target="BRAGELONNE">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Shakespeare" target="TEMPEST">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Fielding" target="Cervantes">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Fielding" target="Sterne">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mr Henley" target="W. E. Henley">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mephistopheles" target="Gounod">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Mephistopheles" target="Faust">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Gounod" target="Faust">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Browning" target="Wordsworth">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="MacDonald" target="MacTaggart">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="MacDonald" target="Burr">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Harvard" target="Yale">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Otto" target="Seraphina">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Will" target="Markheim">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Lamb" target="Hazlitt">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Moore" target="Yeats">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="daub" target="daub">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Rosebery" target="the House of Lords">
+      <data key="d1">co_occurs_with</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Sydney" target="Bayard">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="ANNABELLA" target="GIOVANNI">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Dantes" target="Spensers">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="M'Whirter" target="Chalmers">
+      <data key="d1">associated_with</data>
+    </edge>
+    <edge source="Burr" target="Bough">
+      <data key="d1">associated_with</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,154 @@
+Source,Target,Relation,Weight
+Louis,Edinburgh,co_occurs_with,2
+Louis,Thomas Stevenson,co_occurs_with,2
+Stevenson,Osbourne,associated_with,1
+Stevenson,Pinero,co_occurs_with,6
+Stevenson,Burns,co_occurs_with,3
+Stevenson,London,co_occurs_with,2
+Stevenson,Henderson,co_occurs_with,2
+Stevenson,Jefferies,associated_with,1
+Stevenson,England,co_occurs_with,3
+Stevenson,Thoreau,co_occurs_with,7
+Stevenson,R. L. Stevenson,co_occurs_with,5
+Stevenson,America,co_occurs_with,3
+Stevenson,Edinburgh,co_occurs_with,8
+Stevenson,Braemar,co_occurs_with,2
+Stevenson,Scotland,co_occurs_with,3
+Stevenson,IDLER,co_occurs_with,2
+Stevenson,Stevensons,co_occurs_with,2
+Stevenson,R. L. Stevenson's,co_occurs_with,3
+Stevenson,Bournemouth,co_occurs_with,2
+Stevenson,Baildon,co_occurs_with,7
+Stevenson,Kelman,co_occurs_with,3
+Stevenson,Caerketton,co_occurs_with,2
+Stevenson,Scott,co_occurs_with,7
+Stevenson,Henley,co_occurs_with,14
+Stevenson,Celtic,co_occurs_with,3
+Stevenson,Simpson,co_occurs_with,2
+Stevenson,Dickens,co_occurs_with,2
+Stevenson,New York,co_occurs_with,3
+Stevenson,Samoa,co_occurs_with,3
+Stevenson,Vailima,co_occurs_with,2
+Stevenson,Gosse,co_occurs_with,2
+Stevenson,Annie,co_occurs_with,2
+Stevenson,DR,co_occurs_with,2
+Stevenson,Clarke,co_occurs_with,2
+Stevenson,Rullion Green,co_occurs_with,2
+Stevenson,Mr Zangwill,co_occurs_with,3
+Stevenson,Carlyle,co_occurs_with,2
+Stevenson,De Quincey,co_occurs_with,2
+Stevenson,Chesterton,co_occurs_with,3
+Stevenson,Mr Henley,co_occurs_with,8
+Stevenson,W. E. Henley,co_occurs_with,2
+Stevenson,Lewis,co_occurs_with,4
+Stevenson,Moore,co_occurs_with,3
+Stevenson,Yeats,co_occurs_with,3
+Stevenson,Marriott Watson,co_occurs_with,2
+Stevenson,Rosebery,co_occurs_with,3
+Stevenson,Coates,co_occurs_with,2
+Stevenson,Mr Symons,co_occurs_with,2
+ST,WEIR OF HERMISTON,co_occurs_with,2
+England,America,associated_with,1
+England,Germany,associated_with,1
+England,Calvinism,co_occurs_with,2
+Thoreau,Rousseau,associated_with,1
+Thoreau,R. L. Stevenson,co_occurs_with,3
+R. L. Stevenson,Edinburgh,co_occurs_with,4
+R. L. Stevenson,Braemar,co_occurs_with,3
+R. L. Stevenson,WEIR OF HERMISTON,co_occurs_with,2
+R. L. Stevenson,Henley,co_occurs_with,5
+R. L. Stevenson,Gosse,co_occurs_with,2
+R. L. Stevenson,Mr Henley,co_occurs_with,2
+R. L. Stevenson,Calvinistic Scot,co_occurs_with,2
+R. L. Stevenson,W. E. Henley,co_occurs_with,3
+R. L. Stevenson,Rosebery,co_occurs_with,2
+America,Bournemouth,co_occurs_with,2
+Edinburgh,Braemar,co_occurs_with,2
+Edinburgh,Thomas Stevenson,co_occurs_with,2
+Edinburgh,Stevensons,co_occurs_with,2
+Edinburgh,Simpson,co_occurs_with,2
+Edinburgh,Pinero,co_occurs_with,3
+Edinburgh,the Old Bristo Port,co_occurs_with,2
+Braemar,Henderson,co_occurs_with,3
+Braemar,IDLER,co_occurs_with,2
+London,France,associated_with,1
+London,Rosebery,co_occurs_with,2
+Wednesday,Tuesday,associated_with,1
+Silver,Smollett,associated_with,1
+Silver,Master,associated_with,1
+Davos Platz,THE BLACK CANYON,co_occurs_with,2
+I,Mr,met,1
+IDLER,MY FIRST BOOK,co_occurs_with,2
+Stevensons,Balfours,associated_with,1
+Symonds,Pope,associated_with,1
+Colinton,Swanston,co_occurs_with,2
+Colinton,Moss,associated_with,1
+Colinton,Caerketton,co_occurs_with,2
+Goethe,Martial,associated_with,1
+Halkerside,Allermuir,associated_with,1
+Halkerside,Caerketton,associated_with,1
+Halkerside,Knowe,associated_with,1
+Allermuir,Caerketton,co_occurs_with,2
+Caerketton,Swanston,co_occurs_with,2
+Scott,Shakespeare,associated_with,1
+Scott,Dickens,co_occurs_with,2
+Henley,Zangwill,associated_with,1
+Henley,Simpson,co_occurs_with,2
+Henley,W. E. Henley,co_occurs_with,2
+Balbaithan,Merchant,associated_with,1
+Logie,Margaret Forbes,co_occurs_with,2
+Logie,James Elphinstone,co_occurs_with,2
+CATRIONA,KIDNAPPED,associated_with,1
+Land,Land,associated_with,1
+Elphinstone,Wood,associated_with,1
+Margaret Forbes,James Elphinstone,co_occurs_with,2
+Tusitala,Mataafa,co_occurs_with,3
+Bohemian,Hedonist,associated_with,1
+Dickens,Thackeray,associated_with,1
+CEVENNES,INLAND,co_occurs_with,3
+Samoa,Upolo,associated_with,1
+Samoa,FOOTNOTE,co_occurs_with,2
+Samoa,Honolulu,co_occurs_with,2
+Samoa,Miss Stubbs,co_occurs_with,2
+States,Germany,associated_with,1
+States,State,associated_with,1
+Henry,Clementina,associated_with,1
+Henry,Mackellar,associated_with,1
+Clementina,Clementina,associated_with,1
+Strong,Osbourne,associated_with,1
+TIMES,Rosebery,co_occurs_with,2
+Mr Hyde,Dr Jekyll,co_occurs_with,2
+Hyde,Markheim,associated_with,1
+Hawthorne,Poe,co_occurs_with,2
+Whitehead,Poe,associated_with,1
+Catriona,Grant,associated_with,1
+Graham,M'Whirter,associated_with,1
+Graham,MacTaggart,associated_with,1
+Burns,Rosebery,co_occurs_with,2
+Moss,Green,associated_with,1
+Green,Tummel,associated_with,1
+Boccaccio,Rabelais,associated_with,1
+Rousseau,Aesop,associated_with,1
+Bunyan,BRAGELONNE,associated_with,1
+Shakespeare,TEMPEST,co_occurs_with,2
+Fielding,Cervantes,associated_with,1
+Fielding,Sterne,co_occurs_with,2
+Mr Henley,W. E. Henley,co_occurs_with,2
+Mephistopheles,Gounod,co_occurs_with,2
+Mephistopheles,Faust,co_occurs_with,2
+Gounod,Faust,co_occurs_with,2
+Browning,Wordsworth,associated_with,1
+MacDonald,MacTaggart,associated_with,1
+MacDonald,Burr,associated_with,1
+Harvard,Yale,associated_with,1
+Otto,Seraphina,associated_with,1
+Will,Markheim,associated_with,1
+Lamb,Hazlitt,associated_with,1
+Moore,Yeats,co_occurs_with,2
+daub,daub,associated_with,1
+Rosebery,the House of Lords,co_occurs_with,2
+Sydney,Bayard,associated_with,1
+ANNABELLA,GIOVANNI,associated_with,1
+Dantes,Spensers,associated_with,1
+M'Whirter,Chalmers,associated_with,1
+Burr,Bough,associated_with,1

@@ -1,0 +1,25 @@
+{
+  "default_settings": {
+    "avg_query_time_ms": 0,
+    "query_times_ms": [],
+    "metadata": {},
+    "results": []
+  },
+  "custom_settings": {
+    "avg_query_time_ms": 0,
+    "query_times_ms": [],
+    "metadata": {},
+    "results": []
+  },
+  "comparison": {
+    "query_time_improvement_percent": 0,
+    "is_custom_faster": false,
+    "performance_metrics": {
+      "default_avg_query_time_ms": 0,
+      "custom_avg_query_time_ms": 0,
+      "default_processing_time_ms": 0,
+      "custom_processing_time_ms": 0,
+      "query_time_improvement_percent": 0
+    }
+  }
+}

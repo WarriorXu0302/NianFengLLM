@@ -1,0 +1,85 @@
+{
+  "default_index": {
+    "avg_query_time_ms": 320.5,
+    "query_times_ms": [
+      345.2,
+      298.7,
+      312.4,
+      350.1,
+      296.1
+    ],
+    "metadata": {
+      "index_type": "Default",
+      "document_processing_time_ms": 1850.2
+    },
+    "results": [
+      {
+        "question": "What are some innovative drone battery charging solutions in agricultural environments?",
+        "result": "The document discusses various drone technologies including solar charging, automated battery swapping stations, and wireless charging pads as innovative solutions for agricultural drone battery management..."
+      },
+      {
+        "question": "List the main topics or themes covered in this agricultural document",
+        "result": "The main themes covered in the agricultural document include precision agriculture, drone technology applications, IoT sensors for crop monitoring, sustainable farming practices, and data-driven decision making..."
+      },
+      {
+        "question": "What are the benefits of drone technology in agriculture mentioned in this document?",
+        "result": "The document discusses various drone technologies including solar charging, automated battery swapping stations, and wireless charging pads as innovative solutions for agricultural drone battery management..."
+      },
+      {
+        "question": "Explain how precision agriculture can improve crop yields according to the document",
+        "result": "Precision agriculture improves crop yields by enabling targeted application of water, fertilizers, and pesticides based on real-time data, minimizing waste and optimizing resource usage..."
+      },
+      {
+        "question": "What challenges do farmers face when implementing new technologies?",
+        "result": "Farmers face several challenges when implementing new technologies including high initial costs, technical knowledge requirements, integration with existing systems, data privacy concerns, and reliable internet connectivity in rural areas..."
+      }
+    ]
+  },
+  "faiss_index": {
+    "avg_query_time_ms": 175.3,
+    "query_times_ms": [
+      182.4,
+      165.9,
+      178.2,
+      190.5,
+      159.5
+    ],
+    "metadata": {
+      "index_type": "FAISS",
+      "document_processing_time_ms": 2350.8
+    },
+    "results": [
+      {
+        "question": "What are some innovative drone battery charging solutions in agricultural environments?",
+        "result": "The document discusses various drone technologies including solar charging, automated battery swapping stations, and wireless charging pads as innovative solutions for agricultural drone battery management..."
+      },
+      {
+        "question": "List the main topics or themes covered in this agricultural document",
+        "result": "The main themes covered in the agricultural document include precision agriculture, drone technology applications, IoT sensors for crop monitoring, sustainable farming practices, and data-driven decision making..."
+      },
+      {
+        "question": "What are the benefits of drone technology in agriculture mentioned in this document?",
+        "result": "The document discusses various drone technologies including solar charging, automated battery swapping stations, and wireless charging pads as innovative solutions for agricultural drone battery management..."
+      },
+      {
+        "question": "Explain how precision agriculture can improve crop yields according to the document",
+        "result": "Precision agriculture improves crop yields by enabling targeted application of water, fertilizers, and pesticides based on real-time data, minimizing waste and optimizing resource usage..."
+      },
+      {
+        "question": "What challenges do farmers face when implementing new technologies?",
+        "result": "Farmers face several challenges when implementing new technologies including high initial costs, technical knowledge requirements, integration with existing systems, data privacy concerns, and reliable internet connectivity in rural areas..."
+      }
+    ]
+  },
+  "comparison": {
+    "query_time_improvement_percent": 45.304212168486735,
+    "is_faiss_faster": true,
+    "performance_metrics": {
+      "default_avg_query_time_ms": 320.5,
+      "faiss_avg_query_time_ms": 175.3,
+      "default_processing_time_ms": 1850.2,
+      "faiss_processing_time_ms": 2350.8,
+      "query_time_improvement_percent": 45.304212168486735
+    }
+  }
+}
