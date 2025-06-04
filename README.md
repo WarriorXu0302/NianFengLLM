@@ -1,7 +1,7 @@
 # NianFengLLM - 农业智能大模型系统
 
 <div align="center">
-![76c5bf6d633e08f1bf76c9bb4d2df58](https://github.com/user-attachments/assets/ea1a0fa8-fb9e-4032-b0ca-9445a83daf6a)
+
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)
@@ -18,6 +18,8 @@
 ## 📖 项目简介
 
 NianFengLLM是一个基于LightRAG框架开发的多语种多模态农业智能大模型系统。该系统结合了图谱检索增强生成(Graph-based RAG)技术和深度学习的农作物病害识别能力，为农业从业者提供智能化的农业知识问答和病害诊断服务。
+![项目演示图](https://github.com/user-attachments/assets/7025d7df-ae70-413a-9c45-597bc0ed4267)
+
 
 ### 🌟 核心特色
 
