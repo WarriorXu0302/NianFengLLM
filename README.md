@@ -379,9 +379,7 @@ logging.basicConfig(
 
 ## 📞 联系我们
 
-- 项目主页：[https://github.com/your-repo/NianFengLLM](https://github.com/your-repo/NianFengLLM)
-- 问题反馈：[Issues](https://github.com/your-repo/NianFengLLM/issues)
-- 邮箱：warriorxu@magicap.net
+- 邮箱：xuzejun@nianfeng.tech
 
 ---
 
